@@ -1,4 +1,4 @@
 ---
-title: tijsbousier.eu
+title: Posts
 ---
 
