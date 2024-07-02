@@ -2,4 +2,4 @@ theme: minima
 title: tijsboussier.eu
 author: Tijs Boussier
 minima:
-  skin: solarized-light
+  skin: dark
