@@ -20,4 +20,4 @@ I work as a policy advisor on educational technology at KU Leuven's Faculty of A
 But I'm not here to talk about work. 
 
 #### personal project
-I like to write and sometimes I like to mess around with code (_mess around_, because I'm not proficient in any coding language). For a couple of years I've only been doing that behind lock and key. Now I'm thinking I want to start publishing stuff again. This is where I'll do that.
+I like to write and sometimes I like to mess around with code (_mess around_, because I'm not proficient in any coding language). For a couple of years I've only been doing that behind closed doors. Now I'm thinking I want to start publishing stuff again. This is where I'll do that.
