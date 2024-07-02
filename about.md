@@ -1,6 +1,8 @@
 ---
 title: "About me"
 date: 2024-07-02
+layout: page
+permalink: /about
 ---
 
 Hi there. I'm Tijs.
