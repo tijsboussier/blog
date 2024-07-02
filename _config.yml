@@ -1,7 +1,3 @@
 theme: minima
 title: tijsboussier.eu
 author: Tijs Boussier
-minima:
-  skin: dark
-header-pages:
-  - about.md
