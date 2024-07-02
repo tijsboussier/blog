@@ -5,6 +5,7 @@ layout: page
 permalink: /about
 ---
 
+<div style="float: right; width: 200px; height: 200px;"><p style="text-align:center;"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/PlaceholderLC.png" /></p></div>
 Hi there. I'm Tijs.
 
 #### basics
