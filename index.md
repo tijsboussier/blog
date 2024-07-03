@@ -7,9 +7,9 @@ list_title: Blog posts
     <h2>Welcome to my website</h2>
     <p>It's a blog. There are also three permanent pages:</p>
     <div style="display: flex;">
-      <button><a href="about">About</a></button>
-      <button><a href="now">What I'm doing now</a></button>
-      <button><a href="spaces">Online spaces</a></button>
+      <button style="border: 1px solid black; background-color: inherit; margin: 0.25em; padding: 0.25em;"><a href="about">About</a></button>
+      <button style="border: 1px solid black; background-color: inherit; margin: 0.25em; padding: 0.25em;"><a href="now">What I'm doing now</a></button>
+      <button style="border: 1px solid black; background-color: inherit; margin: 0.25em; padding: 0.25em;"><a href="spaces">Online spaces</a></button>
     </div>
   </div>
 </div>
