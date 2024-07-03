@@ -5,7 +5,7 @@ layout: page
 permalink: /about
 ---
 
-<div style="float: right; width: 250px; margin: 0 1em;"><p style="text-align:center;"><img src="docs/assets/images/about.jpg" /></p></div>
+<div style="float: right; width: 200px; margin: 0 1em;"><p style="text-align:center;"><img src="docs/assets/images/about.jpg" /></p></div>
 
 ## about me
 - Tijs
