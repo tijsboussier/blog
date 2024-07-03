@@ -5,7 +5,7 @@ layout: page
 permalink: /spaces
 ---
 
-This is a list of online public spaces that I have or once had an account on. They are all websites and apps that I use/used to use to share some of my life with the wider world. Limited (mostly) to services I was an active user of at some point. Non-exhaustive; going by memory. Starting with active accounts, then the graveyard. Presented alphabetically.
+This is a list of online public spaces that I have or once had an account on. They are all websites and apps that I use/used to use to share some of my life with the wider world. Limited (mostly) to services I was an active user of at some point. Non-exhaustive; going by memory. Starting with [active accounts](#active), then the [graveyard](#graveyard). Presented alphabetically.
 
 ## Active
 
