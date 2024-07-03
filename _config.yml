@@ -6,4 +6,5 @@ description:
 show_excerpts: true
 header_pages:
   - about.md
+  - now.md
   - spaces.md
