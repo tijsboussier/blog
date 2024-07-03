@@ -6,7 +6,7 @@ permalink: /about
 ---
 
 <div style="float: right; width: 250px; height: 250px; margin: 10px;"><p style="text-align:center;"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/PlaceholderLC.png" /></p></div>
-#### about me
+## about me
 - Tijs
 - He/him
 - 39
@@ -15,7 +15,7 @@ permalink: /about
 - Current job: Policy advisor on education technology (KU Leuven Faculty of Arts)
 - Interests: books (fiction mostly), film and TV, technology
 
-#### blog
+## blog
 I used to blog. Blogger, Wordpress, LiveJournal, Tumblr ...: you name it, [I was on it](spaces.md). For a long while now, though, I haven't been keeping that up and recently I've been missing it.
 
 I still like to write, though, and sometimes I like to mess around with code (_mess around_, because I'm not proficient in any coding language). For a couple of years I've only been doing that behind closed doors. Now I'm starting publishing stuff online again. This is where I'll do that. 
