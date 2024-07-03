@@ -1,6 +1,7 @@
 ---
 title: "Now"
 date: 2024-07-03
+permalink: /now
 ---
 Now-page inspired by <a href="https://sive.rs/nowff">Derek Sivers</a>. July edition.
 
