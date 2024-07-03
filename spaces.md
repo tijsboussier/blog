@@ -51,22 +51,22 @@ This is a list of online public spaces that I have or once had an account on. Th
   
   Virtual chat room, now known as Habbo. Came for the cute Pixel art, wanted to stay for connections made, but that never happened. Even online I'm socially awkward. Don't think I tried for long though.
 
-**Listography**†  
+**Listography**
   
   For obsessive list makers (guilty!). Every list gets is its own card, can be put on 'main', 'ongoing' and 'archive' pages, which are public, or on a private page for lists you don't want to share. Simple default design with simple customisation options. Honestly, this was fun, but I wasn't using it a lot and got rid of it in the end. Definitely an inspiration for the lists I publish on here.
 
-**Livejournal**†  
+**Livejournal**
   
   Third blog, also a social network. Knew people who were already on it and met a couple of new people there, too. This one I used a *lot* a lot. Where I found my niche re:the kind of longer-form content I like to write. Left after LJ was sold to a Russian company and deleted my account eventually, but have an archive of all my content.
 
-**Myspace**†  
+**Myspace**
   
   Had one. Liked playing around with the profile customisation options, but other than that don't remember using it much (or even knowing a lot of people who did). Think I left before Facebook was even around.
 
-**Noxa**†  
+**Noxa**
   
   Belgian social network. Became a member in late teens because friends were on it. Nerdy design, dark background with tiny font, profile page basically a bunch of boxes like Myspace. Limited customisation options. Spent a lot of time on there, filling out and playing around with my profile, chatting to people, reading the fora. Probably left around the time I went to uni. I think back on my time on there fondly and finding out it's still around and doesn't even look very different warms my heart.
 
-**Wordpress**†  
+**Wordpress**
   
   Second blog. Updated it more than Blogger, but tried to be very serious about it. That was a mistake; never fully got the hang of it. Nothing preserved.
