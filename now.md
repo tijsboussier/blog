@@ -15,9 +15,7 @@ Now-page inspired by <a href="https://sive.rs/nowff">Derek Sivers</a>. July edit
 
 ## This month
 #### Activities
-- The Belgian national team got booted out off the UEFA European Football Championship by France. I saw the game with friends, in a brown bar in Hasselt, which is a great way to do it.[^1]
-
-[^1]: As for the Championship in general, I tried to get into the spirit of the thing this year, but in the end that only half worked; I only saw two out of the four games Belgium played and I don't feel any regrets about that whatsoever.
+- The Belgian national team got booted out off the UEFA European Football Championship by France. I saw the game with friends, in a brown bar in Hasselt, which is a great way to do it.
 
 #### Reading
 **Currently reading**: *Into the Narrowdark* by Tad Williams
