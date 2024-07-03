@@ -5,7 +5,7 @@ permalink: /now
 ---
 Now-page inspired by <a href="https://sive.rs/nowff">Derek Sivers</a>. July edition.
 
-<div style="float: right; margin: 10px;"><p style="text-align:center;"><img src="/images/Playdate_front-view.png" /></p></div>
+<div style="float: right; margin: 10px;"><p style="text-align:center;"><img src="docs/assets/images/Playdate_front-view.png" /></p></div>
 
 ## Current focuses
 - I've been a proud holder of a <a href="https://cinevillepass.be/en-BE" target="_blank">Cineville Pass</a> for only a few weeks, but since I've had it I've been to the cinema weekly, seeing movies I probably wouldn't have gone to see in cinema (or seen at all) if I had had to pay for a regular ticket. It's been a blast.
