@@ -26,5 +26,3 @@ None so far
 
 #### Cinema visits
 None so far
-
-## Footnotes
