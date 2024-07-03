@@ -1,5 +1,5 @@
 ---
-title: "Online public spaces"
+title: "Online spaces"
 date: 2024-07-02
 layout: page
 permalink: /spaces
