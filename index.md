@@ -7,9 +7,9 @@ list_title: Blog posts
     <h2>Welcome to my website</h2>
     <p>It's a blog. There are also three permanent pages:</p>
     <ul>
-      <li><a href="about.md">About</a></li>
-      <li><a href="now.md">What I'm doing now</a></li>
-      <li><a href="spaces.md">Online spaces</a></li>
+      <li><a href="about">About</a></li>
+      <li><a href="now">What I'm doing now</a></li>
+      <li><a href="spaces">Online spaces</a></li>
     </ul>
   </div>
 </div>
