@@ -1,5 +1,4 @@
 ---
-title: tijsboussier.eu
 list_title: Blog posts
 ---
 
