@@ -1,10 +1,9 @@
 ---
-list_title: Blog posts
 ---
 
-<div style="width: 100%; background-color: #99B898; border-radius: 25px; padding: 0.5em; margin-bottom: 0.5em;">
+<div style="width: 100%; background-color: #C1D4C1; border-radius: 25px; padding: 0.5em; margin-bottom: 0.5em;">
   <div style="margin: 0.5em; padding: 0.5em;">
-    <h2>Welcome to my website</h2>
+    <h1>Welcome to my website</h1>
     <p>It's a blog. There are also three permanent pages:</p>
     <div style="display: flex;">
       <button style="border: 1px solid black; background-color: inherit; margin: 0.375em; padding: 0.375em; border-radius: 12.5px;"><a href="about" style="margin: 0.375em; color: black;">About</a></button>
