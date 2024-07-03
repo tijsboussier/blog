@@ -2,6 +2,7 @@
 title: "Online public spaces"
 date: 2024-07-02
 layout: page
+permalink: /spaces
 ---
 
 <p>This is a list of online public spaces that I have or once had an account on. They are all websites and apps that I use/used to use to share some of my life on with the wider world. Limited (mostly) to services I was an active user of at some point. Non-exhaustive; going by memory. Presented alphabetically.</p>
