@@ -3,3 +3,7 @@ title: tijsboussier.eu
 author:
   name: Tijs Boussier
 description: 
+show_excerpts: true
+header_pages:
+  - about.md
+  - spaces.md
