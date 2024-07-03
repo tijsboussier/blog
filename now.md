@@ -5,7 +5,7 @@ permalink: /now
 ---
 Now-page inspired by <a href="https://sive.rs/nowff">Derek Sivers</a>. July edition.
 
-## Current focuses
+## What I'm doing now
 
 <div style="float: right; margin: 0 1em; width: 200px;"><p style="text-align:center;"><img src="docs/assets/images/Playdate_front-view.png" /></p></div>
 
