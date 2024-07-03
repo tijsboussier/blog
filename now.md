@@ -7,7 +7,7 @@ Now-page inspired by <a href="https://sive.rs/nowff">Derek Sivers</a>. July edit
 
 ## Current focuses
 
-<div style="float: right; margin: 15px; width: 200px;"><p style="text-align:center;"><img src="docs/assets/images/Playdate_front-view.png" /></p></div>
+<div style="float: right; margin: 0 1em; width: 200px;"><p style="text-align:center;"><img src="docs/assets/images/Playdate_front-view.png" /></p></div>
 
 - I've been a proud holder of a <a href="https://cinevillepass.be/en-BE" target="_blank">Cineville Pass</a> for only a few weeks, but since I've had it I've been to the cinema weekly, seeing movies I probably wouldn't have gone to see in cinema (or seen at all) if I had had to pay for a regular ticket. It's been a blast.
 - My boyfriend gave me a <a href="https://play.date/" target="_blank">Playdate</a> for my birthday. It's honestly such a nifty little gaming device, perfect for a casual gamer like myself, and it just looks so pretty. My favourite game to play on it so far is <a href="https://play.date/games/summit/" target="_blank">Summit</a>.
