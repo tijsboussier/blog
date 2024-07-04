@@ -13,7 +13,7 @@ Now-page inspired by <a href="https://sive.rs/nowff" target="_blank">Derek Siver
 - **Starting a blog**. You're on it. More about that [here](/about.md).
 
 ### This month
-<div style="float: left; width: 49%; border-right: 1px solid #66b2b2;">
+<div style="float: left; width: 49%;">
 <h4>Books</h4>
 <p><strong>Currently reading</strong>: <br /><i>Into the Narrowdark</i> by Tad Williams</p>
 <p><strong>Finished</strong>: <br />None so far</p>
