@@ -17,7 +17,7 @@ permalink: /about
 - Interests: books (mostly fiction), film and TV, languages and linguistics, music, technology
 
 ## About this website
-I used to blog. Blogger, Wordpress, LiveJournal, Tumblr ...: you name it, [I was on it](spaces.md). Then I stopped. It's been half a decade since I last published anything more substantial than an Instagram story and recently I find myself missing it.
+I used to blog. Blogger, Wordpress, LiveJournal, Tumblr ...: you name it, I was on it. Then I stopped. It's been half a decade since I last published anything more substantial than an Instagram story and recently I find myself missing it.
 
 I was still writing during those years, however, and sometimes I messed around with code, too, but it only happened behind closed doors. Now I want to start publishing stuff online again. Here is where I'll do that. 
 
