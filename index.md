@@ -7,6 +7,4 @@ list_title: Posts
 <div style="display: flex; margin-bottom: 2em;">
   <button style="border: 1px solid black; background-color: inherit; margin: 0.375em; padding: 0.375em; border-radius: 12.5px;"><a href="about" style="margin: 0.375em; color: black;">About</a></button>
   <button style="border: 1px solid black; background-color: inherit; margin: 0.375em; padding: 0.375em; border-radius: 12.5px;"><a href="now" style="margin: 0.375em; color: black;">What I'm doing now</a></button>
-  <button style="border: 1px solid black; background-color: inherit; margin: 0.375em; padding: 0.375em; border-radius: 12.5px;"><a href="spaces" style="margin: 0.375em; color: black;">Online spaces</a></button>
-  <button style="border: 1px solid black; background-color: inherit; margin: 0.375em; padding: 0.375em; border-radius: 12.5px;"><a href="on-writing" style="margin: 0.375em; color: black;">Writing journey</a></button>
 </div>
