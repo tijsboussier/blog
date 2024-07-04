@@ -5,7 +5,7 @@ layout: page
 permalink: /spaces
 ---
 
-This is a list of online public spaces that I have or once had an account on. They are all websites and apps that I use/used to use to share some of my life with the wider world. Limited (mostly) to services I was an active user of at some point. Non-exhaustive; going by memory. Starting with [active accounts](#active), then the [graveyard](#graveyard). Presented alphabetically.
+This is a list of online public spaces that I have or once had an account on. They are all websites and apps that I use or used to use to share some of my life with the wider world. Limited (mostly) to services I was an active user of at some point. Non-exhaustive; going by memory. Starting with [active accounts](#active), after that I turn to the [graveyard](#graveyard). Presented alphabetically.
 
 ## Active
 
@@ -53,7 +53,7 @@ This is a list of online public spaces that I have or once had an account on. Th
 
 **Listography**
   
-  For obsessive list makers (guilty!). Every list gets is its own card, can be put on 'main', 'ongoing' and 'archive' pages, which are public, or on a private page for lists you don't want to share. Simple default design with simple customisation options. Honestly, this was fun, but I wasn't using it a lot and got rid of it in the end. Definitely an inspiration for the lists I publish on here.
+  For obsessive list makers (guilty!). Every list gets is its own card, can be put on 'main', 'ongoing' and 'archive' pages, which are public, or on a private page for lists you don't want to share. Simple default design with simple customisation options. Honestly, this was fun, but I wasn't using it a lot and got rid of it in the end.
 
 **Livejournal**
   
