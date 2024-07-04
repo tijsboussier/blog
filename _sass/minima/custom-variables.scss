@@ -1,11 +1,12 @@
-$header-color: #66b2b2;
-
-.page-heading, .post-list-heading, .post-header, .post-title {
-  color: $header-color;
+.wrapper {
+  .page-heading, .post-list-heading, .post-header, .post-title {
+    color: #66b2b2;
+  }
 }
 
-.post-content {
-  h1, h2, h3, h4, h5, h6 {
-    color: $header-color;
-  }
+.wrapper {
+  .post-content {
+    h1, h2, h3, h4, h5, h6 {
+      color: #66b2b2;
+    }
 }
