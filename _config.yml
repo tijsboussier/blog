@@ -1,8 +1,6 @@
 theme: minima
 title: tijsboussier.eu
-author:
-  name: Tijs Boussier
-description: 
+description: "© 2024 Tijs Boussier"
 show_excerpts: true
 header_pages:
   - about.md
