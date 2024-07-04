@@ -3,8 +3,6 @@ title: "Now"
 date: 2024-07-03
 permalink: /now
 ---
-# What I'm doing now
-
 Now-page inspired by <a href="https://sive.rs/nowff" target="_blank">Derek Sivers</a>. 
 <br />July 2024 edition. Last updated on 4 July 2024.
 
@@ -15,12 +13,12 @@ Now-page inspired by <a href="https://sive.rs/nowff" target="_blank">Derek Siver
 - **Starting a blog**. You're on it. More about that [here](/about.md).
 
 ### This month
-<div style="float: left; width: 50%;">
-<h4>Reading</h4>
+<div style="float: left; width: 50%; border-right: 1px solid #66b2b2;">
+<h4>Books</h4>
 <p><strong>Currently reading</strong>: <br /><i>Into the Narrowdark</i> by Tad Williams</p>
 <p><strong>Finished</strong>: <br />None so far</p>
 </div>
 <div style="float: right; width: 50%;">
-<h4>Cinema visits</h4>
+<h4>Movies</h4>
 <p>None so far</p>
 </div>
