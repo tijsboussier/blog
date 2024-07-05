@@ -17,13 +17,15 @@ permalink: /about
 - Interests: books (mostly fiction), film and TV, languages and linguistics, music, technology
 
 ## About this website
-I used to blog. Blogger, Wordpress, LiveJournal, Tumblr ...: you name it, I was on it. Then I stopped. It's been half a decade since I last published anything more substantial than an Instagram story. I've been missing it for about as long.
+I used to blog. Blogger, Wordpress, LiveJournal, Tumblr ...: you name it, I was on it. Then I stopped. It's been half a decade since I last published anything more substantial than an Instagram story. For about as long I've been missing it though and so, after a lot of soul-searching and a couple of previous, botched attempts, I'm now ready to put my stuff out there again.
 
-I was still writing, however, and sometimes I messed around with code, too, but only behind closed doors. Now I want to start publishing stuff online again. Here is where I'll do that. 
+I'm doing it a little bit different this time around, on my own domain and with a set-up that puts everything firmly under my control. I really don't want to be at the mercy of whichever corporation owns the platform I publish on anymore. 
 
-I'm doing it a little bit different this time around, on my own domain and with a set-up that puts everything firmly under my control. It is a way to challenge myself to really carve out a space on the world wide web that is fully my own. In the same breath I also really don't want to be at the mercy of whichever corporation owns the platform I publish on anymore; I got burnt by that a few too many times. The pages and posts on this website are Markdown files in a folder I can always access; moving the blog to a different service if I ever need to will be easier than Wordpress, LiveJournal and Tumblr ever made it. That gives me ease of mind. 
+That's why the pages and posts on this website are Markdown notes in a folder I can always access, and why the way the place looks and works is similarly stored in files I can freely edit. It means moving this site to a different service if I ever need to will be easier than Wordpress, LiveJournal and Tumblr ever made it. That gives me ease of mind.
 
-It also allows me to be more adventurous. This website is my personal playground. It's a constant work in progress. 
+By the same token this set-up challenges myself to really carve out a space on the world wide web that is fully my own. That's by design; I enjoy messing around with coding and there will be space for that here, too. Maybe I'll even get proficient at it. 
+
+In short, I want to be adventurous, both in what and how I write and how I present it. This website is my personal playground.
 
 That's enough waxing poetic about what right now, really, is just a blog, and a pretty messy one at that. It does not have a set topic or domain to cover, though naturally I'll tend to write about things I'm interested in.
 
