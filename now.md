@@ -3,6 +3,7 @@ title: "Now"
 date: 2024-07-03
 permalink: /now
 ---
+
 Now-page inspired by <a href="https://sive.rs/nowff" target="_blank">Derek Sivers</a>. 
 <br />July 2024 edition. Last updated on 5 July 2024.
 
