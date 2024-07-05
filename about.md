@@ -4,9 +4,9 @@ date: 2024-07-02
 permalink: /about
 ---
 
-## About me
-
 <img src="docs/assets/images/about.jpg" style="width: 25%; float: right;" />
+
+## About me
 
 - Tijs
 - He/him
