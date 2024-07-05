@@ -1,7 +1,9 @@
-theme: minima
 title: tijsboussier.eu
 description: "© 2024 Tijs Boussier"
 show_excerpts: true
 header_pages:
   - about.md
   - now.md
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
