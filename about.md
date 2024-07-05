@@ -5,7 +5,7 @@ layout: page
 permalink: /about
 ---
 
-<div style="float: right; width: 200px; margin: 0 1em;"><p style="text-align:center;"><img src="docs/assets/images/about.jpg" /></p></div>
+<div style="float: right; width: 200px; margin: 0 0 1.5em 1.5em;"><p style="text-align:center;"><img src="docs/assets/images/about.jpg" style="border-radius: 5px;" /></p></div>
 
 ## About me
 
