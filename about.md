@@ -5,7 +5,7 @@ layout: page
 permalink: /about
 ---
 
-<div style="float: right; width: 200px; margin: 1.25em;"><p style="text-align:center;"><img src="docs/assets/images/about.jpg" style="border-radius: 5px;" /></p></div>
+<div style="float: right; width: 200px; margin: 0 1.25em 1.25em;"><p style="text-align:center;"><img src="docs/assets/images/about.jpg" style="border-radius: 5px;" /></p></div>
 
 ## About me
 
@@ -15,7 +15,7 @@ permalink: /about
 - Born in Belgium
 - Living in Brussels
 - EdTech policy advisor at KU Leuven Faculty of Arts
-- ❤️ books (mostly fiction), film and TV, languages/linguistics, music, technology
+- &#9829; books (mostly fiction), film and TV, languages/linguistics, music, technology
 
 ## About this website
 I used to blog. Blogger, Wordpress, LiveJournal, Tumblr ...: you name it, I was on it. Then I stopped. It's been half a decade since I last published anything more substantial than an Instagram story. For just as long I've been missing it though and so, after a lot of soul-searching as well as a couple of previous, botched attempts, I'm now ready to put my stuff out there again.
