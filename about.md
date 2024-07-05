@@ -6,6 +6,8 @@ permalink: /about
 
 ## About me
 
+<img src="/docs/assets/images/about.jpg" style="width: 25%; float: right;" />
+
 - Tijs
 - He/him
 - 39
