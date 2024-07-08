@@ -5,7 +5,7 @@ permalink: /now
 ---
 
 Now-page inspired by <a href="https://sive.rs/nowff" target="_blank">Derek Sivers</a>. 
-<br />July 2024 edition. Last updated on 5 July 2024.
+<br />July 2024 edition. Last updated on 8 July 2024.
 
 ## What I'm doing now
 
@@ -16,10 +16,13 @@ Now-page inspired by <a href="https://sive.rs/nowff" target="_blank">Derek Siver
 ## This month
 <div style="float: left; width: 49%;">
 <h4>Books</h4>
-<p><strong>Currently reading</strong>: <br /><i>Into the Narrowdark</i> by Tad Williams</p>
-<p><strong>Finished</strong>: <br />None so far</p>
+<p><strong>Currently reading</strong> <br /><i>Into the Narrowdark</i> by Tad Williams</p>
+<p><strong>Finished</strong> <br />None so far</p>
 </div>
 <div style="float: right; width: 49%;">
-<h4>Movies</h4>
-<p>None so far</p>
+<h4>Films seen in cinema</h4>
+<ol>
+  <li><i>The Matrix</i> (1999)</li>
+  <li><i>Love Lies Bleeding</i> (2024)</li>
+</ol>
 </div>
