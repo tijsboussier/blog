@@ -8,6 +8,20 @@ permalink: /about
 
 ## About me
 
+I'm Tijs. He/him, 39. Born in Belgium, currently residing in Brussels. I work as an EdTech policy advisor at KU Leuven Faculty of Arts. But I'm not here to talk about work.
+
+My interests are manifold. Jack of all trades, master of none? I guess, kind of, in that I have a Pocket full of saved articles that run the gamut from longreads on mathematics, physics, politics, medicine ... to celebrity profiles, business histories and so much more. I will never have the time to read them all. That said, there are a few domains that interest me in particular.
+
+- Books! I like holding them, I like owning them and I like reading them. I mainly read fiction, a lot of so-called 'genre fiction' (SFF) with some other stuff thrown in between. It's not often I leave the house without my e-reader somewhere on me.
+
+- Entertainment! I like watching TV (though I watch less of it than I used to) and films (which I'm watching more of as of very recently, check the (now-page)[now.md] for more on that). I play video games from time to time, too.
+
+- Languages! My mother tongue is Dutch and my English is quite good, too. I'm also somewhat fluent in German, a bit less so in French and Polish, and I have recently started a bit of Swedish on Duolingo. I studied linguistics and literature at uni and while I focused my studies on literature and literary theory as much as I could at the time, my interest in linguistics has been on a steady trajectory upwards since.
+
+- Technology! I've enjoyed using it/messing around with it since I was a teenager (software and the www rather than hardware). Everything I know about it and every skill I have with it was self-taught, though; not an expert, just an enthusiast.
+
+---
+
 - Tijs
 - He/him
 - 39
