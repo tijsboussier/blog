@@ -5,7 +5,7 @@ permalink: /now
 ---
 
 Now-page inspired by <a href="https://sive.rs/nowff" target="_blank">Derek Sivers</a>. 
-<br />July 2024 edition. Last updated on 8 July 2024.
+<br />July 2024 edition. Last updated on 12 July 2024.
 
 ## What I'm doing now
 
