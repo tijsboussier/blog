@@ -16,13 +16,17 @@ Now-page inspired by <a href="https://sive.rs/nowff" target="_blank">Derek Siver
 ## This month
 <div style="float: left; width: 49%;">
 <h4>Books</h4>
-<p><strong>Currently reading</strong> <br /><i>Into the Narrowdark</i> by Tad Williams</p>
-<p><strong>Finished</strong> <br />None so far</p>
+<p><strong>Currently reading</strong> <br /><i>What We Talk About When We Talk About Love</i> by Raymond Carver</p>
+<p><strong>Finished</strong> </p>
+  <ul>
+    <li><i>Into the Narrowdark</i> by Tad Williams</li>
+  </ul>
 </div>
 <div style="float: right; width: 49%;">
 <h4>Films seen in cinema</h4>
 <ol>
   <li><i>The Matrix</i> (1999)</li>
   <li><i>Love Lies Bleeding</i> (2024)</li>
+  <li><i>Whatever Happened to Baby Jane?</i> (1962)</li>
 </ol>
 </div>
