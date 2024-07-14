@@ -5,7 +5,7 @@ permalink: /now
 ---
 
 Now-page inspired by <a href="https://sive.rs/nowff" target="_blank">Derek Sivers</a>. 
-<br />July 2024 edition. Last updated on 12 July 2024.
+<br />July 2024 edition. Last updated on 14 July 2024.
 
 ## What I'm doing now
 
@@ -28,5 +28,7 @@ Now-page inspired by <a href="https://sive.rs/nowff" target="_blank">Derek Siver
   <li><i>The Matrix</i> (1999)</li>
   <li><i>Love Lies Bleeding</i> (2024)</li>
   <li><i>Whatever Happened to Baby Jane?</i> (1962)</li>
+  <li><i>The Bikeriders</i> (2024; rewatch)</li>
+  <li><i>The Rocky Horror Picture Show</i> (1975; rewatch)</li>
 </ul>
 </div>
