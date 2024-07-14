@@ -14,7 +14,7 @@ Now-page inspired by <a href="https://sive.rs/nowff" target="_blank">Derek Siver
 - **Starting a blog**. You're on it. More about that [here](/about.md).
 
 ## This month
-<div style="width: 100%;">
+<div style="width: 100%; display: block;">
 <div style="float: left; width: 49%;">
 <h4>Books</h4>
 <p><strong>Currently reading</strong> <br /><i>What We Talk About When We Talk About Love</i> by Raymond Carver</p>
@@ -34,7 +34,7 @@ Now-page inspired by <a href="https://sive.rs/nowff" target="_blank">Derek Siver
 </ol>
 </div>
 </div>
-<div style="width: 100%;">
+<div style="width: 100%; display: block;">
 <div style="float: left; width: 49%;">
   <h4>TV</h4>
   <p>Non-exhaustive; main watches</p>
