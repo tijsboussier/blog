@@ -34,7 +34,7 @@ Now-page inspired by <a href="https://sive.rs/nowff" target="_blank">Derek Siver
 </ol>
 </div>
 </div>
-<div style="width: 100%; display: block;">
+<div style="width: 100%; display: block; clear: both;">
 <div style="float: left; width: 49%;">
   <h4>TV</h4>
   <p>Non-exhaustive; main watches</p>
