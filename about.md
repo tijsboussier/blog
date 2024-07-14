@@ -3,10 +3,9 @@ title: "About"
 date: 2024-07-02
 permalink: /about
 ---
-
-<img src="docs/assets/images/about.jpg" style="width: 25%; float: right;" />
-
 ## About me
+
+<img src="docs/assets/images/about.jpg" style="width: 25%; float: right; maring: 1em;" />
 
 Hi, I'm Tijs. He/him, 39. Born in Belgium, currently residing in Brussels. Working as an EdTech policy advisor at KU Leuven Faculty of Arts. But I'm not here to talk about work.
 
