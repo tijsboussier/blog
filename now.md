@@ -24,11 +24,19 @@ Now-page inspired by <a href="https://sive.rs/nowff" target="_blank">Derek Siver
 </div>
 <div style="float: right; width: 49%;">
 <h4>Films seen in cinema</h4>
-<ul>
+<ol>
   <li><i>The Matrix</i> (1999)</li>
   <li><i>Love Lies Bleeding</i> (2024)</li>
   <li><i>Whatever Happened to Baby Jane?</i> (1962)</li>
   <li><i>The Bikeriders</i> (2024; rewatch)</li>
   <li><i>The Rocky Horror Picture Show</i> (1975; rewatch)</li>
-</ul>
+</ol>
+</div>
+<div style="float: left; width: 49%;">
+  <h4>TV</h4>
+  <p>Non-exhaustive; main watches</p>
+  <ul>
+    <li><i>Hacks</i> season 2 and 3</li>
+    <li><i>The Bear</i> season 3</li>
+  </ul>
 </div>
