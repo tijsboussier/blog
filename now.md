@@ -14,6 +14,7 @@ Now-page inspired by <a href="https://sive.rs/nowff" target="_blank">Derek Siver
 - **Starting a blog**. You're on it. More about that [here](/about.md).
 
 ## This month
+<div>
 <div style="float: left; width: 49%;">
 <h4>Books</h4>
 <p><strong>Currently reading</strong> <br /><i>What We Talk About When We Talk About Love</i> by Raymond Carver</p>
@@ -32,6 +33,8 @@ Now-page inspired by <a href="https://sive.rs/nowff" target="_blank">Derek Siver
   <li><i>The Rocky Horror Picture Show</i> (1975; rewatch)</li>
 </ol>
 </div>
+</div>
+<div>
 <div style="float: left; width: 49%;">
   <h4>TV</h4>
   <p>Non-exhaustive; main watches</p>
@@ -39,4 +42,5 @@ Now-page inspired by <a href="https://sive.rs/nowff" target="_blank">Derek Siver
     <li><i>Hacks</i> season 2 and 3</li>
     <li><i>The Bear</i> season 3</li>
   </ul>
+</div>
 </div>
