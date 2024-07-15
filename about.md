@@ -13,7 +13,7 @@ My interests are manifold. I have a Pocket full of saved articles on topics that
 
 - Books. Mainly fiction; I read a lot of genre fiction (SFF) with some other stuff thrown in between.  
 - Entertainment. I like watching TV shows and films and can get quite intense about them at times. Sometimes I play video games, too.
-- Languages. I studied them at uni and while I focused on literature and literary theory at the time, linguistics have developed into one of my great loves since. I'm a native Dutch speaker and I'm fluent in English; currently I'm brushing up on my French and German, learning Polish, and dabbling in Swedish.
+- Languages. I studied them at uni and while I focused on literature at the time, linguistics have developed into one of my great loves since. I'm a native Dutch speaker and I'm fluent in English; currently I'm brushing up on my French and German, learning Polish, and dabbling in Swedish.
 - Technology. I enjoy using it/messing around with it (software, not hardware); everything I know about it and every skill I have in it I've taught myself.
 - Social justice. On Tumblr I really got into social justice issues and that hasn't really gone anywhere since. I'm gay myself, so anything LGBTQIA+-related is of particular note to me.
 
