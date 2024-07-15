@@ -14,7 +14,7 @@ My interests are manifold. I have a Pocket full of saved articles on topics that
 - Books. Mainly fiction; I read a lot of genre fiction (SFF) with some other stuff thrown in between.  
 - Entertainment. I like watching TV shows and films and can get quite intense about them at times. Sometimes I play video games, too.
 - Languages. I studied them at uni and while I focused on literature at the time, linguistics have developed into one of my great loves since. I'm a native Dutch speaker and I'm fluent in English; currently I'm brushing up on my French and German, learning Polish, and dabbling in Swedish.
-- Technology. I enjoy using it/messing around with it (software, not hardware); everything I know about it and every skill I have in it I've taught myself.
+- Technology. I enjoy using it/messing around with it (software, not hardware).
 - Social justice. On Tumblr I really got into social justice issues and that hasn't really gone anywhere since. I'm gay myself, so anything LGBTQIA+-related is of particular note to me.
 
 I expect I'll mainly be talking about things that fit these interests on here, but I'm not ruling anything out. This website does not have a set topic or domain.
@@ -22,7 +22,7 @@ I expect I'll mainly be talking about things that fit these interests on here, b
 ## About this website
 I used to blog. Blogger, Wordpress, LiveJournal, Tumblr ...: you name it, I was on it. Then I stopped. It's been half a decade since I last published anything more substantial than an Instagram story. For just as long I've been missing it though and so, after a lot of soul-searching as well as a couple of previous, botched attempts, I'm now ready to put my stuff out there again.
 
-I'm doing it a little bit differently this time around, on my own domain and with a set-up that puts everything firmly under my control. One reason for this is I really don't want to be at the mercy of whichever corporation owns the platform I publish on anymore. By the same token this set-up challenges me to really make this space my own. That's by design, it excites me. I enjoy messing around with code and there will be opportunity to do that on here, too. This website is my personal playground.
+I'm doing it a little bit differently this time around, on my own domain and with a set-up that puts everything firmly under my control. One reason for this is I don't want to be at the mercy of whichever corporation owns the platform I publish on anymore. By the same token this set-up challenges me to really make this space my own. That's by design. I enjoy messing around with code and there will be opportunity to do that on here, too. This website is my personal playground.
 
 Right now, though, it really is just a dime-in-a-dozen blog.
 
