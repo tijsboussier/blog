@@ -14,34 +14,21 @@ Now-page inspired by <a href="https://sive.rs/nowff" target="_blank">Derek Siver
 - **Starting a blog**. You're on it. More about that [here](/about.md).
 
 ## This month
-<div>
-<div style="float: left; width: 49%;">
-<h4>Currently reading</h4>
-  <p><i>A Canticle for Leibowitz</i> by Walter M. Miller Jr.</p>
-<h4>Finished books</h4>
-  <ol>
-    <li><i>Into the Narrowdark</i> by Tad Williams</li>
-    <li><i>What We Talk About When We Talk About Love</i> by Raymond Carver</li>
-  </ol>
-</div>
-<div style="float: right; width: 49%;">
-<h4>Films seen in cinema</h4>
-<ol>
-  <li><i>The Matrix</i> (1999)</li>
-  <li><i>Love Lies Bleeding</i> (2024)</li>
-  <li><i>Whatever Happened to Baby Jane?</i> (1962)</li>
-  <li><i>The Bikeriders</i> (2024; rewatch)</li>
-  <li><i>The Rocky Horror Picture Show</i> (1975; rewatch)</li>
-</ol>
-</div>
-</div>
-<div style="clear: both;">
-<div style="float: left; width: 49%;">
-  <h4>TV</h4>
-  <p>Non-exhaustive; main watches</p>
-  <ul>
-    <li><i>Hacks</i> season 2 and 3</li>
-    <li><i>The Bear</i> season 3</li>
-  </ul>
-</div>
-</div>
+### Currently reading
+_A Canticle for Leibowitz_ by Walter M. Miller Jr.
+
+### Finished books
+1. _Into the Narrowdark_ by Tad Williams
+2. _What We Talk About When We Talk About Love_ by Raymond Carver
+
+### Films seen in cinema
+1. _The Matrix_ (1999; rewatch)
+2. _Love Lies Bleeding_ (2024)
+3. _Whatever Happened to Baby Jane?_ (1962)
+4. _The Bikeriders_ (2024; rewatch)
+5. _The Rocky Horror Picture Show_ (1975; rewatch)
+
+### TV
+Non-exhaustive; main watches
+- _Hacks_ season 2 and 3
+- _The Bear_ season 3
