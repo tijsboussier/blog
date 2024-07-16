@@ -7,7 +7,7 @@ permalink: /about
 
 <img src="docs/assets/images/about.jpg" style="width: 25%; float: right; margin: 1em;" />
 
-Hi, I'm Tijs. He/him, 39. Born in Belgium, currently living in Brussels. Working as an EdTech policy advisor at KU Leuven Faculty of Arts. But I'm not here to talk about work.
+Hi, I'm Tijs. He/him, 39. Born in Belgium, currently living in Brussels. I'm an EdTech policy advisor at KU Leuven Faculty of Arts. But I'm not here to talk about work.
 
 My interests are manifold. I have a Pocket full of saved articles on topics that run the gamut from mathematics, physics, politics and medicine to celebrity profiles, business histories and so much more. I will never have the time or stamina to read them all. That said, there are a few domains that interest me in particular.
 
@@ -15,7 +15,7 @@ My interests are manifold. I have a Pocket full of saved articles on topics that
 - Entertainment. I like watching TV shows and films and can get quite intense about them at times. Sometimes I play video games, too.
 - Languages. I studied them at uni and while I focused on literature at the time, linguistics have developed into one of my great loves since. I'm a native Dutch speaker and I'm fluent in English; currently I'm brushing up on my French and German, learning Polish, and dabbling in Swedish.
 - Technology. I enjoy using it/messing around with it (software, not hardware).
-- Social justice. On Tumblr I really got into social justice issues and that hasn't really gone anywhere since. I'm gay myself, so anything LGBTQIA+-related is of particular note to me.
+- Social justice. On Tumblr I got into social justice issues and that hasn't really gone anywhere since. I'm gay myself, so anything LGBTQIA+-related is of particular note to me.
 
 I expect I'll mainly be talking about things that fit these interests on here, but I'm not ruling anything out. This website does not have a set topic or domain.
 
