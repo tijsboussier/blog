@@ -5,7 +5,7 @@ permalink: /now
 ---
 
 Now-page inspired by <a href="https://sive.rs/nowff" target="_blank">Derek Sivers</a>. 
-<br />July 2024 edition. Last updated on 14 July 2024.
+<br />July 2024 edition. Last updated on 16 July 2024.
 
 ## What I'm doing now
 
@@ -16,12 +16,13 @@ Now-page inspired by <a href="https://sive.rs/nowff" target="_blank">Derek Siver
 ## This month
 <div>
 <div style="float: left; width: 49%;">
-<h4>Books</h4>
-<p><strong>Currently reading</strong> <br /><i>What We Talk About When We Talk About Love</i> by Raymond Carver</p>
-<p><strong>Finished</strong></p>
-  <ul>
+<h4>Currently reading</h4>
+  <p><i>A Canticle for Leibowitz</i> by Walter M. Miller Jr.</p>
+<h4>Finished books</h4>
+  <ol>
     <li><i>Into the Narrowdark</i> by Tad Williams</li>
-  </ul>
+    <li><i>What We Talk About When We Talk About Love</i> by Raymond Carver</li>
+  </ol>
 </div>
 <div style="float: right; width: 49%;">
 <h4>Films seen in cinema</h4>
