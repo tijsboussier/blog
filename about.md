@@ -7,7 +7,9 @@ permalink: /about
 
 Hi, I'm Tijs. He/him, 39. Born in Belgium, currently living in Brussels. I'm an EdTech policy advisor at KU Leuven Faculty of Arts. But I'm not here to talk about work.
 
-My interests are manifold. I have a Pocket full of saved articles on topics that run the gamut from mathematics, physics, politics and medicine to celebrity profiles, business histories and so much more. I get through a few of them every day, but I will never have the time or stamina to read them all. That said, there are a few domains that interest me in particular: books (predominantly fiction, a lot of genre with some other stuff thrown in between), music, TV shows and films, languages, and technology. I expect I'll mainly be talking about things that fit those interests on here. That said, this website does not have a set topic or domain.
+My interests are manifold and I have a Pocket account full of saved articles on topics that run the gamut from mathematics, physics, politics and medicine to celebrity profiles, business histories and so much more to prove it.
+
+That said, there are a few domains that interest me in particular: books (predominantly fiction, a lot of genre with some other stuff thrown in between), music, TV shows and films, languages, and technology. I expect I'll mainly be talking about things that fit those interests on here, but this website does not have a set topic or domain.
 
 ## About this website
 I used to blog. Blogger, Wordpress, LiveJournal, Tumblr ...: you name it, I was on it. Then I stopped. It's been half a decade since I last published anything more substantial than an Instagram story. For just as long I've been missing it though and so, after a lot of soul-searching as well as a couple of previous, botched attempts, I'm now ready to put my stuff out there again.
