@@ -2,6 +2,6 @@
 list_title: Posts
 ---
 
-# Welcome to my website
+<h1>Welcome to my website</h1>
 
 It's still very much under construction, so hang tight!
