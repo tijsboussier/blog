@@ -2,5 +2,6 @@
 list_title: Posts
 ---
 
-<h1>Welcome to my website</h1>
-<p>It's a blog.
+# Welcome to my website
+
+It's still very much under construction, so hang tight!
