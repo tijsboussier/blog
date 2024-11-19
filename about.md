@@ -3,7 +3,6 @@ title: "About"
 date: 2024-07-02
 permalink: /about
 ---
-<img src="docs/assets/images/about.jpg" style="width: 25%; float: right; margin: 1em;" />
 
 Hi there.
 
