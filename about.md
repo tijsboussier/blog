@@ -5,11 +5,11 @@ permalink: /about
 ---
 <img src="docs/assets/images/about.jpg" style="width: 25%; float: right; margin: 1em;" />
 
-Hi, I'm Tijs. He/him, 39. Born in Belgium, currently living in Brussels. I'm an EdTech policy advisor at KU Leuven Faculty of Arts. But I'm not here to talk about work.
+Hi, I'm Tijs. He/him, 39. Born in Belgium, currently living in Brussels with my boyfriend and our cat. I'm an EdTech policy advisor at KU Leuven Faculty of Arts. But I'm not here to talk about work.
 
-My interests are manifold and I have a Pocket account full of saved articles on topics that run the gamut from mathematics, physics, politics and medicine to celebrity profiles, business histories and so much more to prove it.
+My interests are manifold and I have a Pocket account full of saved articles to prove it, on topics that run the gamut from mathematics, physics, politics and medicine to celebrity profiles, business histories and so much more.
 
-That said, there are a few domains that interest me in particular: books (predominantly fiction, a lot of genre with some other stuff thrown in between), music, TV shows and films, languages, and technology. I expect I'll mainly be talking about things that fit those interests on here, but this website does not have a set topic or domain.
+That said, there are a few domains that interest me in particular: books (predominantly fiction, predominantly sff), TV shows and films, languages, and technology. I expect I'll mainly be talking about things that fit those interests on here, but this website does not have a set topic or domain.
 
 ## About this website
 I used to blog. Blogger, Wordpress, LiveJournal, Tumblr ...: you name it, I was on it. Then I stopped. It's been half a decade since I last published anything more substantial than an Instagram story. For just as long I've been missing it though and so, after a lot of soul-searching as well as a couple of previous, botched attempts, I'm now ready to put my stuff out there again.
