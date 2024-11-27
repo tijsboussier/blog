@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: jekyll/minima
 title: tijsboussier.eu
 description: "© 2024 Tijs Boussier"
 show_excerpts: true
