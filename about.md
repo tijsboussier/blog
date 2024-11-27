@@ -4,7 +4,7 @@ date: 2024-11-27
 permalink: /about
 ---
 
-<img src="docs/assets/images/about_small.jpg" style="height: 250px; margin: 0.5em 0 1em 1em;float: right;" />Tijs. He/him. 39, born and bred in Belgium, currently living in Brussels with a boyfriend and a cat. 
+<img src="docs/assets/images/about_small.jpg" style="margin: 0.5em 1em 1em 0; float: left; border-radius: 5%;" />Tijs. He/him. 39, born and bred in Belgium, currently living in Brussels with a boyfriend and a cat. 
 
 During office hours I'm an EdTech policy advisor at KU Leuven's Faculty of Arts. But I'm not here to talk about work.
 
