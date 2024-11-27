@@ -1,7 +1,7 @@
 remote_theme: jekyll/minima
 title: tijsboussier.eu
+name: Tijs Boussier
 description: "I'm Tijs. This website is my playground, to mess around with writing and web design. For right now, though, it really is just a dime-in-a-dozen blog."
-copyright_notice: "© 2024 Tijs Boussier"
 header_pages:
   - about.md
 minima:
