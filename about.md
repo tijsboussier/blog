@@ -4,11 +4,13 @@ date: 2024-11-27
 permalink: /about
 ---
 
-<img src="docs/assets/images/about_small.jpg" style="margin: 0.5em 1em 0 0;float: left;" />Tijs. He/him. 39, born and bred in Belgium, currently living in Brussels with a boyfriend and a cat. 
+<img src="docs/assets/images/about_small.jpg" style="height: 250px; margin: 0.5em 1em 0 0;float: left;" />Tijs. He/him. 39, born and bred in Belgium, currently living in Brussels with a boyfriend and a cat. 
 
 During office hours I'm an EdTech policy advisor at KU Leuven's Faculty of Arts. But I'm not here to talk about work.
 
-During my downtime I read, watch TV and/or movies, or play ~~video games~~ CK3. I also spend a fair bit of time cooking - and am halfway decent at it, too - and studying languages. I'm currently taking night classes in Polish and Swedish. I'm a homebody. When I do leave the house it's usually to go to the movies, though I also enjoy bars and restaurants, hikes, the odd board game or two and trips aproad. 
+During my downtime I read, watch TV and/or movies, or play ~~video games~~ CK3. I also spend a fair bit of time cooking - and am halfway decent at it, too - and studying languages. I'm currently taking night classes in Polish and Swedish. 
+
+I'm a homebody. When I do leave the house it's usually to go to the movies, though I also enjoy bars and restaurants, hikes, the odd board game or two and trips aproad. 
 
 Truly, I'm nothing unusual.
 
