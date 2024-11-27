@@ -5,3 +5,7 @@ show_excerpts: true
 header_pages:
   - about.md
   - now.md
+minima:
+  social links:
+    - { platform: bluesky, user_url: "https://bsky.app/profile/tijsboussier.eu" }
+    - { platform: instagram, user_url: "https://www.instagram.com/mrhappyboots" }
