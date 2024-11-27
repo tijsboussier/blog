@@ -1,8 +1,8 @@
 ---
 date: 2024-11-27
 layout: post
-title: "Beyond Time for Stories Like These: Resisting Empire In R.F. Kuang's <i>Babel</i> and Alix E. Harrow's <i>The Ten Thousand Doors of January</i>"
-description: "Reading <i>The Ten Thousand Doors of January</i> by Alix E. Harrow, I couldn't help but be reminded of <i>Babel, or the Necessity of Violence</i> by R.F. Kuang. This makes sense; these narratives of anti-colonial resistance bear some striking similarities. But there's also plenty that makes them stand out on their own."
+title: "Beyond Time for Stories Like These: Resisting Empire In R.F. Kuang's *Babel* and Alix E. Harrow's *The Ten Thousand Doors of January*"
+description: "Reading <em>The Ten Thousand Doors of January</em> by Alix E. Harrow, I couldn't help but be reminded of <em>Babel, or the Necessity of Violence</em> by R.F. Kuang. This makes sense; these narratives of anti-colonial resistance bear some striking similarities. But there's also plenty that makes them stand out on their own."
 ---
 
 **2024 was a good reading year. I read 27 books and counting, which is more than I achieved in quite a number of years. Now ranking books is a fool's errand and I'm not even going to try. That said, there are books that struck a chord with me more than others, mostly in good ways, some in bad. For the next few weeks, as a way to kick-start this spanking new blog, I've chosen to highlight a few of them. This is my 2024: A Reading Year in Review series.**
@@ -23,7 +23,7 @@ Then again it doesn't truly matter. The similarities are interesting to consider
 
 ## R.F. Kuang's *Babel, or the Necessity of Violence*
 
-<img src="../docs/assets/images/babel.jpg" style="height: 300px; vertical-align: top; float: left;" />
+<img src="../../../docs/assets/images/babel.jpg" style="height: 300px; vertical-align: top; float: left;" />
 
 *Babel* is set in 1830s England, with most of the events taking place in Oxford. England rules a global empire that is just as big and dominant as it was in the real world, but with one important difference: in this version of history England's supremacy depends on its mastery and control of the latent magic in silver bars. Silver bars, when inscribed with two words from separate languages with similar but not identical meanings (referred to in-world as a match-pair), draw power from the space between these words, from what is lost in translation, and express it, giving their wielder the ability to manipulate reality. England applies this magic to improve agricultural yields, increase industrial production, or make carriages run more smoothly, as well as for more nefarious means.
 
@@ -39,7 +39,7 @@ To resist or not to resist, and if to resist then how, and is the use of violenc
 
 ## Alix E. Harrow's *The Ten Thousand Doors of January*
 
-<img src="../docs/assets/images/doors.jpg" style="height: 300px; vertical-align: top; float: left;" />
+<img src="../../../docs/assets/images/doors.jpg" style="height: 300px; vertical-align: top; float: left;" />
 
 Going off the blurb of Alix E. Harrow's *The Ten Thousand Doors of January*, I was expecting a colourful portal fantasy, an exciting romp through vibrantly painted worlds, with Seanan McGuire's *Wayward Children* series as a better reference point than *Babel*. It became clear very quickly that I had been sorely mistaken. While categorising *The Ten Thousand Doors* as a portal fantasy is not wrong, per se, the world the book's protagonists mainly travel to other worlds from is the one we spend most of our time in. There's less jumping between universes than you'd expect; the novel does not luxuriate in imagining different worlds. Rather it is the *possibility* of traveling to places so different from our own *itself* that is the heart of the matter, the crux on which everything turns.
 
