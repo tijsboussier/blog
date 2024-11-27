@@ -32,7 +32,7 @@ layout: base
           </a>
         </h3>
         <p>
-          {{ post.description | escape }}
+          {{ post.description | markdownify }}
         </p>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
