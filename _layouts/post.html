@@ -33,7 +33,7 @@ layout: base
   <div>
     <p><strong>Tags</strong></p>
     {% for tag in page.tags %}
-      {{ tag }}
+      <a href="/tags/{{ tag | slugify }}">{{ tag }}</a>
     {% endfor %}
   </div>
   
