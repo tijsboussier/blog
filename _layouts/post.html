@@ -35,7 +35,7 @@ layout: base
   <div>
     <p><strong>Tags</strong></p>
     {% for tag in page.tags %}
-      <a class="tag-label" href="/tags/{{ tag | replace: " ","-" }}">{{ tag }}</a>
+      <a href="/tags/{{ tag | replace: " ","-" }}"><button class="button-48" role="button">{{ tag }}</button></a>
     {% endfor %}
   </div>
   
