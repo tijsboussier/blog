@@ -7,7 +7,12 @@ layout: base
   
   {% for post in site.posts %}
     {% if post.tags contains page.tag-name %}
-      <p><a href="{{ post.url }}">{{ post.title | markdownify }}</a>, published {{ post.date | date: "%Y-%m-%d" }}</p>
+       <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | markdownify }}
+          </a>
+        </h3>
     {% endif %}
   {% endfor %}
   
