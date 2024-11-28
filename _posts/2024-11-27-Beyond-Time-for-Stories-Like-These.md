@@ -3,9 +3,7 @@ date: 2024-11-27
 layout: post
 title: "Beyond Time for Stories Like These: Resisting Empire In R.F. Kuang's *Babel* and Alix E. Harrow's *The Ten Thousand Doors of January*"
 description: "Reading *The Ten Thousand Doors of January* by Alix E. Harrow, I couldn't help but be reminded of *Babel, or the Necessity of Violence* by R.F. Kuang. This makes sense; these narratives of anti-colonial resistance bear some striking similarities. But there's also plenty that makes them stand out on their own."
-tags: 
- - "2024: A Reading Year in Review"
- - test
+tags: "2024: A Reading Year in Review"
 ---
 
 ---
