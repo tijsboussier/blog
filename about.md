@@ -4,7 +4,7 @@ date: 2024-11-27
 permalink: /about
 ---
 
-<img src="docs/assets/images/about_small.jpg" style="height: 250px; vertical-align: top; float: right;" />
+<img src="docs/assets/images/about_small.jpg" style="height: 250px; vertical-align: top; margin: 0.3em 0 1em 1em; float: right;" />
 
 Tijs. He/him. 39, born and bred in Belgium, currently living in Brussels with a boyfriend and a cat. 
 
