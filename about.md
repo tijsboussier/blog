@@ -29,4 +29,4 @@ My interests are manifold. There are a few domains that interest me in particula
 
 
 ## Credit
-I'm building this website using Github and Jekyll. I set up the structure using [this Github Pages template](https://github.com/skills/github-pages) and I'm using [Minima](https://github.com/jekyll/minima) (the default Jekyll theme) as a jumping off point for the blog's structure, layout and styling, though I have made some minor tweaks and plan to make more. Thank you to the people maintaining the [instructions](https://github.com/jekyll/minima/blob/master/README.md) on how to make those changes; they've been a great help.
+I'm building this website using Github and Jekyll. I set up the structure using [this Github Pages template](https://github.com/skills/github-pages) and I'm using [Minima](https://github.com/jekyll/minima) (the default Jekyll theme) as a jumping off point for the blog's layout and styling, though I have made some minor tweaks and plan to make more. Thank you to the people maintaining the [instructions](https://github.com/jekyll/minima/blob/master/README.md) on how to make those changes; they've been a great help.
