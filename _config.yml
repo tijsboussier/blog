@@ -8,6 +8,7 @@ minima:
   social_links:
     - { platform: bluesky, user_url: "https://bsky.app/profile/tijsboussier.eu" }
     - { platform: instagram, user_url: "https://www.instagram.com/mrhappyboots" }
+    - { platform: storygraph, user_url: "https://app.thestorygraph.com/profile/tijsboussier" }
   date_format: "%d %B %Y"
 plugins:
   - jekyll-feed
