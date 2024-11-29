@@ -16,6 +16,9 @@ layout: base
               {{ post.title | markdownify }}
             </a>
           </h3>
+          <p>
+          {{ post.description | markdownify }}
+        </p>
         </li>
       {% endif %}
     {% endfor %}
