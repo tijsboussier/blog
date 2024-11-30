@@ -1,7 +1,11 @@
 ---
+layout: page
 title: "Changelog"
 permalink: /changelog
 ---
+
+#### 30 November 2024
+- Set up a local test environment for this website, so I won't have to run tests in production anymore.
 
 #### 29 November 2024
 - Added an icon for [The Storygraph](https://www.thestorygraph.com/) in the footer. The Storygraph is not part of the standard set of platforms Minima has a social media icon for, so I converted the service's logo into an SVG file, edited it to make sure it had the right size and color to fit the rest of the icons, then implemented it.

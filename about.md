@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "About"
 date: 2024-11-27
 permalink: /about

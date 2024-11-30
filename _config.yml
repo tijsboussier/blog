@@ -12,6 +12,7 @@ minima:
   date_format: "%d %B %Y"
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 collections:
   tags:
     output: true
