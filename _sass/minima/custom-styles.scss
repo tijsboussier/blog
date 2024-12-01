@@ -1,3 +1,10 @@
+.site-header {
+  position: sticky;
+  top: 0;
+  background-color: #fdfdfd;
+  backdrop-filter: blur(11px); -webkit-backdrop-filter: blur(10px);
+}
+
 p {
   text-align: justify;
 }

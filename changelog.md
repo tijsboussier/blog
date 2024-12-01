@@ -4,6 +4,9 @@ title: "Changelog"
 permalink: /changelog
 ---
 
+#### 1 December 2024
+- Made the header sticky and non-transparent.
+
 #### 30 November 2024
 - Set up a local test environment for this website, so I won't have to run tests in production anymore.
 
