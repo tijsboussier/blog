@@ -3,6 +3,7 @@ title: tijsboussier.eu
 name: "Tijs Boussier"
 description: "This website is a playground, to mess around with writing and web design. For right now, though, it really is just a dime-in-a-dozen blog."
 header_pages:
+  - now.md
   - about.md
 minima:
   social_links:

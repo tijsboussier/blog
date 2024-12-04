@@ -29,11 +29,9 @@ layout: base
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
-
-  <hr>
   
   <div>
-    <p><strong>Tags</strong></p>
+    <h4 class="tagbox">Tags</strong></h4>
     {% for tag in page.tags %}
       <a href="/tags/{{ tag | replace: " ","-" }}"><button class="button-60" role="button">{{ tag }}</button></a>
     {% endfor %}

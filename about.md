@@ -3,6 +3,7 @@ layout: page
 title: "About"
 date: 2024-11-27
 permalink: /about
+navlink: About
 ---
 
 <img src="docs/assets/images/about_small.jpg" style="height: 250px; vertical-align: top; margin: 0.3em 0 1em 1em; float: right;" />
