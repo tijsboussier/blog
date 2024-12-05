@@ -30,7 +30,7 @@ layout: base
     {{ content }}
   </div>
 
-  {% if post.tags.size > 0 %}
+  {% if page.tags.size > 0 %}
     <p class="tagbox">
       Tag{% if page.tags.size > 1 %}s{% endif %}:
         {% for tag in page.tags %}
