@@ -5,7 +5,7 @@ permalink: /changelog
 ---
 
 #### 5 December 2024
-- Added a different style for buttons.
+- Replaced the tag buttons with a tag list. It's cleaner and simpler.
 - Defined a separate style for the piece of introductory text I add to posts that are part of a series. This allowed me to get rid of horizontal rules completely.
 
 #### 4 December 2024
