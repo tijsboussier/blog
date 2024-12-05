@@ -4,6 +4,9 @@ title: "Changelog"
 permalink: /changelog
 ---
 
+#### 5 December 2024
+- Added a different style for buttons.
+
 #### 4 December 2024
 - Added the Now page.
 - Style template I used for this website had the title of the pages that the navbar has links to set up as the name for the links themselves. I did not like that, so I figured out a system to separate page title from link name.
