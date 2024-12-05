@@ -8,7 +8,9 @@ tags:
  - Books
 ---
 
-<p class="infobox">2024 was a good reading year. I read 27 books and counting, which is more than I achieved in quite a number of years. Now ranking books is a fool's errand and I'm not even going to try. That said, there are books that struck a chord with me more than others, mostly in good ways, some in bad. For the next few weeks, as a way to kick-start this spanking new blog, I've chosen to highlight a few of them. This is my 2024: A Reading Year in Review series.</p>
+<div class="infobox">
+ <p>2024 was a good reading year. I read 27 books and counting, which is more than I achieved in quite a number of years. Now ranking books is a fool's errand and I'm not even going to try. That said, there are books that struck a chord with me more than others, mostly in good ways, some in bad. For the next few weeks, as a way to kick-start this spanking new blog, I've chosen to highlight a few of them. This is my 2024: A Reading Year in Review series.</p>
+</div>
 
 Elżbieta Cherezińska is probably not a name that rings a lot of bells outside of her native Poland. A successful and celebrated author in her own country, her twelfth novel, *The Widow Queen*, was only the first (and still only one of two) to get an English translation. After having read both books in the *The Bold* duology, I can't help but think that's a pity.
 
