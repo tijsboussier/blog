@@ -29,13 +29,16 @@ layout: base
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
-  
-  <div>
-    <h4 class="tagbox">Tags</strong></h4>
-    {% for tag in page.tags %}
-      <a href="/tags/{{ tag | replace: " ","-" }}"><button class="tagbutton" role="button">{{ tag }}</button></a>
-    {% endfor %}
-  </div>
+
+  {% if post.tags.size > 0 %}
+    <p class="tagbox">
+      Tag{% if post.tags.size > 1 %}s{% endif %}:
+        {% for tag in page.tags %}
+          <a href="/tags/{{ tag | replace: " ","-" }}">{{ tag }}</a>
+          {% unless forloop.last %},&nbsp;{% endunless %}
+        {% endfor %}
+    </p>
+  {%- endif -%}
   
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
