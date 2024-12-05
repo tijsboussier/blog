@@ -11,7 +11,7 @@ permalink: /changelog
 - Added the Now page.
 - Style template I used for this website had the title of the pages that the navbar has links to set up as the name for the links themselves. I did not like that, so I figured out a system to separate page title from link name.
 - Fun with fonts! Read up on web fonts, at least until I knew enough to implement them on this website. Now using Source Serif 4 for headings.
-- Using horizontal rules <code><hr></code> in some places, really just as placeholders while I develop this website's layout and styling, and they do not look good. Replaced them now in one place where I was using them, at the top of the tag section on blog posts. A simple 1px solid border in the same color as the font already looks much nicer.
+- Using horizontal rules <code><hr></code> in some places, really just as placeholders while I develop this website's layout and styling, and they do not look good. Replaced them now in one place where I was using them, at the top of the tag section on blog posts. A simple 1px solid border already looks much nicer.
 
 #### 1 December 2024
 - Made the header sticky and non-transparent.
