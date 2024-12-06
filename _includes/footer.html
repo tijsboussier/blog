@@ -5,13 +5,17 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col">
-        <p class="feed-subscribe">
-          <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">
-            <svg class="svg-icon orange">
-              <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-            </svg><span>Subscribe</span>
-          </a>
-        </p>
+        <ul class="social-media-list">
+          <li>
+            <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">
+              <svg class="svg-icon grey">
+                <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
+              </svg>
+            </a>
+          </li>
+        </ul>
+        <p class="feed-subscribe"><a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">Subscribe</a></p>
+          
       {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
