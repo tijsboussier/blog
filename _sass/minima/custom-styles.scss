@@ -16,9 +16,12 @@ p strong, li strong {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Source Serif 4", ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
   font-weight: 500;
-  letter-spacing: -1px;
   word-wrap: break-word;
   font-optical-sizing: auto;
+}
+
+h1, h2 {
+  letter-spacing: -1px;
 }
 
 h2, h3 {
