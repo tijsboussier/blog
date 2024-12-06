@@ -30,8 +30,8 @@ li h3 {
 }
 
 .infobox {
-  border-top: 1px solid #9a9a9a;
-  border-bottom: 1px solid #9a9a9a;
+  border-top: 1px solid #042A2B;
+  border-bottom: 1px solid #042A2B;
   padding-top: 30px;
   padding-bottom: 30px;
   margin-top: 30px;
@@ -40,27 +40,6 @@ li h3 {
 }
 
 .tagbox {
-  border-top: 1px solid #9a9a9a;
+  border-top: 1px solid #042A2B;
   padding-top: 30px;
-}
-
-.tagbutton {
-    cursor: pointer;
-    outline: 0;
-    display: inline-block;
-    font-weight: 400;
-    line-height: 1.5;
-    text-align: center;
-    background-color: transparent;
-    border: 1px solid transparent;
-    padding: 6px 12px;
-    font-size: 0.8rem;
-    border-radius: .25rem;
-    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
-    color: #111;
-    border-color: #9a9a9a;
-}
-
-.tagbutton:hover {
-    background-color: #e8e8e8;
 }
