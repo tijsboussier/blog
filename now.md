@@ -1,11 +1,11 @@
 ---
-date: 2024-12-04
+date: 2024-12-10
 layout: page
 permalink: /now
 title: "What I'm Doing Now"
 navlink: Now
 ---
-This is my [Now-page](https://nownownow.com/about). Inspired by [Derek Sivers](https://sive.rs/). Last updated on {{ page.date | date: '%e %B %Y' }}
+This is my [Now-page](https://nownownow.com/about), inspired by [Derek Sivers](https://sive.rs/). Last updated on {{ page.date | date: '%e %B %Y' }}
 
 ## Projects
 
@@ -17,8 +17,9 @@ This is my [Now-page](https://nownownow.com/about). Inspired by [Derek Sivers](h
 
 ## Books
 
-#### Currently reading
+### Currently reading
 _The Navigator's Children_ by Tad Williams
 
 ## Cinema visits
-None yet
+1. _The Substance_ (2024) - Cinéma Galeries
+2. _Gladiator II_ (2024) - Kinepolis Hasselt
