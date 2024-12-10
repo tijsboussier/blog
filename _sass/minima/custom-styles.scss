@@ -1,12 +1,7 @@
 .site-header {
   position: sticky;
   top: 0;
-  background-color: #fdfdfd;
   backdrop-filter: blur(11px); -webkit-backdrop-filter: blur(10px);
-}
-
-.site-footer {
-  background-color: #fdfdfd;
 }
 
 .social-media-list {
@@ -36,7 +31,7 @@ h1, h2, h3 {
   letter-spacing: -1px;
 }
 
-h2, h4, h6, li h3 {
+h2, h4, h6 {
   font-style: italic;
 }
 
