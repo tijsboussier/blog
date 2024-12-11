@@ -22,18 +22,23 @@ p strong, li strong {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Frank Ruhl Libre", ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
-  font-weight: 500;
+  font-family: "Merriweather", serif;
   word-wrap: break-word;
   font-optical-sizing: auto;
 }
 
 h1 {
+  font-weight: 700;
   letter-spacing: -1px;
 }
 
 h2, h3, h4, h5, h6 {
+  font-weight: 400;
   letter-spacing: 0px;
+}
+
+h2, h4, h6 {
+  font-style: italic;
 }
 
 .infobox {
