@@ -6,6 +6,9 @@ permalink: /changelog
 
 ### December
 
+#### 11 December 2024
+- Fun with colours and fonts. At some point I'm going to find a combination that will satisfy me long-time.
+
 #### 6 December 2024
 - Fun with colours! Changed the background colour (excluding header and footer), font colour, link colour, and the colours for the borders between the introductory text/tag section and the main body of text. Also switched the colour of the RSS symbol in the lower left corner from orange to an unobtrusive gray. This had been bothering me since day one.
 - I didn't like how much vertical space the footer was using, so I rearranged things in there a bit to make it smaller. I don't think I'm quite finished with it _yet_, but good enough for now.
