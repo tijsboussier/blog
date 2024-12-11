@@ -41,16 +41,21 @@ a {
   position: relative;
 }
 
+a:hover {
+  text-decoration: none;
+}
+
 a::after {
   content: '';
   position: absolute;
   width: 100%;
   transform: scaleX(0);
-  height: 1px;
+  height: 2px;
   bottom: 0;
   left: 0;
   background-color: #1282a2;
   transition: transform 0.25s ease-out;
+  box-sizing: border-box;
 }
 
 a:hover::after {
