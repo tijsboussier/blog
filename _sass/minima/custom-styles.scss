@@ -55,7 +55,12 @@ li h3 {
 
 .page-content p a:hover, .page-content li a:hover {
   color: #020202;
-  background-color: #E5F3BC;
+  background-color: #CDFCD8;
+}
+
+.page-content li h3 a:hover {
+  color: #6E8898;
+  background-color: transparent;
 }
 
 /* Style for my own div classes */
