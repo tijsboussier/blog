@@ -5,7 +5,7 @@ permalink: /now
 title: "What I'm Doing Now"
 navlink: Now
 ---
-This is my [Now-page](https://nownownow.com/about), inspired by [Derek Sivers](https://sive.rs/). Last updated on {{ page.date | date: '%e %B %Y' }}
+This is my [Now-page](https://nownownow.com/about), inspired by [Derek Sivers](https://sive.rs/). Last updated on {{ page.date | date: '%e %B %Y' }}.
 
 ## Projects
 
