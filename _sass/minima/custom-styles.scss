@@ -1,9 +1,13 @@
+/* Sticky header */
+
 .site-header {
   position: sticky;
   top: 0;
   background-color: #f9fafb;
   backdrop-filter: opacity(100%);
 }
+
+/* Changes to the footer */
 
 .social-media-list {
   margin: 0 auto;
@@ -12,6 +16,8 @@
 .feed-subscribe {
   text-align: center;
 }
+
+/* Paragraphs and headings */
 
 p {
   text-align: justify;
@@ -40,6 +46,12 @@ h2, h3, h4, h5, h6 {
 h2, h4, h6 {
   font-style: italic;
 }
+
+li h3 {
+  font-weight: 300;
+}
+
+/* Style for my own div classes */
 
 .infobox {
   border-top: 1px solid #777978;
