@@ -21,6 +21,10 @@ p strong, li strong {
   font-weight: 600;
 }
 
+a:hover {
+  color: inherit;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: "Frank Ruhl Libre", ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
   font-weight: 500;
