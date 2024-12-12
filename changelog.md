@@ -6,7 +6,7 @@ permalink: /changelog
 
 ### December
 
-#### 11 December 2024
+#### 11-12 December 2024
 - Fun with colours and fonts. At some point I'm going to find a combination that will satisfy me long-time.
 
 #### 6 December 2024

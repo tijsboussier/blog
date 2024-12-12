@@ -1,5 +1,5 @@
 ---
-date: 2024-12-10
+date: 2024-12-12
 layout: page
 permalink: /now
 title: "What I'm Doing Now"
@@ -23,3 +23,4 @@ _The Navigator's Children_ by Tad Williams
 ## Cinema visits
 1. _The Substance_ (2024) - Cinéma Galeries
 2. _Gladiator II_ (2024) - Kinepolis Hasselt
+3. _Wicked: Part 1_ (2024) - UGC De Brouckère
