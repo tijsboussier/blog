@@ -1,5 +1,5 @@
 ---
-date: 2024-12-10
+date: 2024-12-12
 layout: page
 permalink: /now
 title: "What I'm Doing Now"
