@@ -76,17 +76,12 @@ a:visited:hover {
 }
 
 .footnotes::before {
-  display: block;
   content: "Footnotes";
+  display: block;
   font-weight: 600;
   margin-bottom: 15px;
-}
-
-.footnotes::after {
-  content: "";
-  display: block;
-  border-top: 1px solid #04151F;
   padding-top: 15px;
+  border-top: 1px solid #04151F;
   width: 25%;
 }
 
