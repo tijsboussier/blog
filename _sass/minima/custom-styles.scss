@@ -47,14 +47,10 @@ h2, h4, h6 {
   font-style: italic;
 }
 
-li h3 {
-  font-weight: 300;
-}
-
 /* Link stylings */
 
 .page-content p a:hover, .page-content li a:hover {
-  background-color: #C9DEE7;
+  background-color: #E3EBF2;
 }
 
 .page-content li h3 a:hover {
@@ -62,11 +58,15 @@ li h3 {
 }
 
 a:visited:hover {
-  color: #609FBA;
+  color: #8FADCB;
 }
 
-.site-title:visited:hover, .page-link:visited:hover {
+.site-title:visited:hover {
   color: #424242;
+}
+
+.page-link:visited:hover {
+  color: #04151F;
 }
 
 /* Style for my own div classes */
