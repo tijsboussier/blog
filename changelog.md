@@ -6,7 +6,11 @@ permalink: /changelog
 
 ### December
 
-#### 11-12 December 2024
+#### 12 December 2024
+- More fun with colours.
+- More importantly, now that I have my first post with a footnote, I've added a sort-of heading to the footnotes section, though I could only do that by using a <code>::before</code> pseudo-selector. Not as clean a solution as I would like, but I'm not versed in JavaScript anywhere near well enough to write a script myself to get it exactly where I want it. You live, you learn.
+
+#### 11 December 2024
 - Fun with colours and fonts. At some point I'm going to find a combination that will satisfy me long-time.
 
 #### 6 December 2024
