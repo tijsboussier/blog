@@ -54,11 +54,15 @@ li h3 {
 /* Link stylings */
 
 .page-content p a:hover, .page-content li a:hover {
-  background-color: #CDEBF0;
+  background-color: #D7EFF3;
 }
 
 .page-content li h3 a:hover {
   background-color: transparent;
+}
+
+a:visited:hover {
+  color: #98D8E2;
 }
 
 /* Style for my own div classes */
