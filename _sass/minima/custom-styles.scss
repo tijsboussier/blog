@@ -3,7 +3,6 @@
 .site-header {
   position: sticky;
   top: 0;
-  color: #1C1018;
   background-color: #FDFDFD;
   backdrop-filter: opacity(100%);
 }
@@ -55,7 +54,7 @@ li h3 {
 /* Link stylings */
 
 .page-content p a:hover, .page-content li a:hover {
-  background-color: #DEE7EA;
+  background-color: #F3CAC3;
 }
 
 .page-content li h3 a:hover {
@@ -63,11 +62,11 @@ li h3 {
 }
 
 a:visited:hover {
-  color: #7FA2AD;
+  color: #E48A7B;
 }
 
 .site-title:visited:hover {
-  color: #1C1018;
+  color: #424242;
 }
 
 /* Style for my own div classes */
