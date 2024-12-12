@@ -71,11 +71,21 @@ a:visited:hover {
 
 /* Add heading to footnotes */
 
+.footnotes {
+  display: relative;
+}
+
 .footnotes::before {
   display: block;
   content: "Footnotes";
   font-weight: 600;
   margin-bottom: 15px;
+}
+
+.footnotes::after {
+  border-top: 1px solid #04151F;
+  padding-top: 15px;
+  width: 25%;
 }
 
 /* Style for my own div classes */
