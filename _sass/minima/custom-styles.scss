@@ -69,6 +69,14 @@ a:visited:hover {
   color: #04151F;
 }
 
+/* Add heading to footnotes */
+
+.footnotes::before {
+  display: block;
+  content: "Footnotes";
+  font-weight: 400;
+}
+
 /* Style for my own div classes */
 
 .infobox {
