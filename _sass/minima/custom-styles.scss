@@ -51,6 +51,16 @@ li h3 {
   font-weight: 300;
 }
 
+/* Link stylings */
+
+.page-content p a:hover, .page-content li a:hover {
+  background-color: #F3ECEC;
+}
+
+.page-content li h3 a:hover {
+  background-color: transparent;
+}
+
 /* Style for my own div classes */
 
 .infobox {
