@@ -1,5 +1,5 @@
 ---
-date: 2024-12-12
+date: 2024-12-13
 layout: page
 permalink: /now
 title: "What I'm Doing Now"
@@ -18,6 +18,9 @@ This is my [Now-page](https://nownownow.com/about), inspired by [Derek Sivers](h
 ## Books
 
 ### Currently reading
+_When We Cease to Understand the World_ by Benjamín Labatut, translated by Adrian Nathan West
+
+### Finished
 _The Navigator's Children_ by Tad Williams
 
 ## Cinema visits
