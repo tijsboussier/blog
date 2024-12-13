@@ -5,8 +5,8 @@ title: "2024 Reading"
 ---
 ## Currently reading
 
-<p style="text-align: center;"><img src="docs/assets/images/cease.jpg" style="height: 300px; vertical-align: top; margin: 0.3em 1em 1em 0;" /></p>
-<p style="text-align: center;"><strong><i>When We Cease to Understand the World</i></strong><br />by Benjamín Labatut, translated by Adrian Nathan West</p>
+<img src="docs/assets/images/cease.jpg" style="height: 300px; vertical-align: top; margin: 0.3em 1em 1em 0;" />
+<p style="float: right;"><strong><i>When We Cease to Understand the World</i></strong><br />by Benjamín Labatut, translated by Adrian Nathan West</p>
 
 ## Finished
 1. Tad Williams, *To Green Angel Tower* (Memory, Sorrow, and Thorn #3)
