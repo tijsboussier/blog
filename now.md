@@ -23,7 +23,9 @@ This is my [Now-page](https://nownownow.com/about), inspired by [Derek Sivers](h
     <h3 style="margin-top: 10px;">Currently reading</h3>
     <p><i>When We Cease to Understand the World</i> by Benjamín Labatut, translated by Adrian Nathan West</p>
     <h3>Finished</h3>
-    <p><i>The Navigator's Children</i> by Tad Williams</p>
+    <ol>
+      <li><i>The Navigator's Children</i> by Tad Williams</li>
+    </ol>
   </div>
 </div>
 
