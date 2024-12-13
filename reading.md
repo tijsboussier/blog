@@ -5,10 +5,12 @@ title: "2024 Reading"
 ---
 ## Currently reading
 
-<div style="float: left;"><img src="docs/assets/images/cease.jpg" style="height: 300px; vertical-align: top; margin: 0.3em 1em 1em 0;" /></div>
-<div style="float: right; vertical-align: bottom;"><p><strong><i>When We Cease to Understand the World</i></strong><br />by Benjamín Labatut, translated by Adrian Nathan West</p></div>
+<img src="docs/assets/images/cease.jpg" style="height: 300px; vertical-align: top; margin: 0.3em 1em 1em 0;" />
 
-<h2 style="float: clear;">Finished</h2>
+**_When We Cease to Understand the World_**  
+by Benjamín Labatut, translated by Adrian Nathan West
+
+## Finished
 1. Tad Williams, *To Green Angel Tower* (Memory, Sorrow, and Thorn #3)
 2. Simon Jimenez, *The Vanished Birds*
 3. James S.A. Corey, *Memory's Legion* (The Expanse #10)
