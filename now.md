@@ -17,6 +17,8 @@ This is my [Now-page](https://nownownow.com/about), inspired by [Derek Sivers](h
 
 ## Books
 
+<img src="{{site.baseurl}}/docs/assets/images/cease.jpg" style="height: 300px; vertical-align: top; margin: 0.3em 0 1em 1em; float: right;" />
+
 ##### Currently reading
 _When We Cease to Understand the World_ by Benjamín Labatut, translated by Adrian Nathan West
 
