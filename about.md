@@ -6,7 +6,7 @@ permalink: /about
 navlink: About
 ---
 
-<img src="docs/assets/images/about_small.jpg" style="height: 250px; vertical-align: top; margin: 0.3em 0 1em 1em; float: right;" />
+<img src="{{site.baseurl}}/docs/assets/images/about_small.jpg" style="height: 250px; vertical-align: top; margin: 0.3em 0 1em 1em; float: right;" />
 
 Tijs. He/him. 39, born and bred in Belgium, currently living in Brussels with a boyfriend and a cat. 
 
