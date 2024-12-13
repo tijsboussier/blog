@@ -20,7 +20,7 @@ This is my [Now-page](https://nownownow.com/about), inspired by [Derek Sivers](h
 <div style="display: flex;">
   <img src="{{site.baseurl}}/docs/assets/images/cease.jpg" style="height: 300px; vertical-align: top; margin: 0.3em 1em 1em 0;" />
   <div>
-    <h3>Currently reading</h3>
+    <h3 style="margin-top: 0px;">Currently reading</h3>
     <p><i>When We Cease to Understand the World</i> by Benjamín Labatut, translated by Adrian Nathan West</p>
     <h3>Finished</h3>
     <p><i>The Navigator's Children</i> by Tad Williams</p>
