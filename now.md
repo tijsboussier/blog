@@ -17,13 +17,16 @@ This is my [Now-page](https://nownownow.com/about), inspired by [Derek Sivers](h
 
 ## Books
 
-<img src="{{site.baseurl}}/docs/assets/images/cease.jpg" style="height: 300px; vertical-align: top; margin: 0.3em 0 1em 1em; float: right;" />
+<div style="display: flex;">
+  <img src="{{site.baseurl}}/docs/assets/images/cease.jpg" style="height: 300px; vertical-align: top; margin: 0.3em 1em 1em 0;" />
+  <div>
+    <h3>Currently reading</h3>
+    <p><i>When We Cease to Understand the World</i> by Benjamín Labatut, translated by Adrian Nathan West</p>
+    <h3>Finished</h3>
+    <p><i>The Navigator's Children</i> by Tad Williams</p>
+  </div>
+</div>
 
-##### Currently reading
-_When We Cease to Understand the World_ by Benjamín Labatut, translated by Adrian Nathan West
-
-##### Finished
-_The Navigator's Children_ by Tad Williams
 
 ## Cinema visits
 1. _The Substance_ (2024) - Cinéma Galeries
