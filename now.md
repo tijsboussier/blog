@@ -17,10 +17,10 @@ This is my [Now-page](https://nownownow.com/about), inspired by [Derek Sivers](h
 
 ## Books
 
-### Currently reading
+##### Currently reading
 _When We Cease to Understand the World_ by Benjamín Labatut, translated by Adrian Nathan West
 
-### Finished
+##### Finished
 _The Navigator's Children_ by Tad Williams
 
 ## Cinema visits
