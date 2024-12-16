@@ -49,6 +49,18 @@ h2, h4, h6 {
 
 /* Link stylings */
 
+.page-content p a:hover, .page-content li a:hover {
+  background-color: #E3EBF2;
+}
+
+.page-content li h3 a:hover {
+  background-color: transparent;
+}
+
+a:visited:hover {
+  color: #8FADCB;
+}
+
 .site-title:visited:hover {
   color: #424242;
 }
