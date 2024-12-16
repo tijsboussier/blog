@@ -1,5 +1,5 @@
 ---
-date: 2024-12-13
+date: 2024-12-16
 layout: page
 permalink: /now
 title: "What I'm Doing Now"
@@ -34,3 +34,5 @@ This is my [Now-page](https://nownownow.com/about), inspired by [Derek Sivers](h
 1. _The Substance_ (2024) - Cinéma Galeries
 2. _Gladiator II_ (2024) - Kinepolis Hasselt
 3. _Wicked: Part 1_ (2024) - UGC De Brouckère
+4. _A Streetcar Named Desire_ (1951) - Cinematek
+5. _No Other Land_ (2024) - Cinéma Palace
