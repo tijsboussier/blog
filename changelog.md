@@ -7,7 +7,7 @@ permalink: /changelog
 ### December
 
 #### 18 December 2024
-- You can't find this website on Google. So I set up some SEO stuff in the config file (as well as verified my ownership of the domain on Google Search Console) to hopefully change that.
+- You can't find this website on Google. So I set up some SEO stuff in the config file, verified my ownership of the domain on Google Search Console, added a sitemap and a robots.txt file to hopefully change that.
 
 #### 12 December 2024
 - More fun with colours.
