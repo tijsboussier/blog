@@ -6,6 +6,9 @@ permalink: /changelog
 
 ### December
 
+#### 18 December 2024
+- You can't find this website on Google. So I set up some SEO stuff in the config file (as well as verified my ownership of the domain on Google Search Console) to hopefully change that.
+
 #### 12 December 2024
 - More fun with colours.
 - More importantly, now that I have my first post with a footnote, I've added a sort-of heading to the footnotes section, though I could only do that by using a pseudo-element. Not as clean a solution as I would like, but I'm not versed in JavaScript anywhere near well enough to write a script myself to get it exactly where I want it. You live, you learn.
