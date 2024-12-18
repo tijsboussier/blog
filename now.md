@@ -1,5 +1,5 @@
 ---
-date: 2024-12-16
+date: 2024-12-18
 layout: page
 permalink: /now
 title: "What I'm Doing Now"
@@ -18,10 +18,11 @@ This is my [Now-page](https://nownownow.com/about), inspired by [Derek Sivers](h
 ## Books
 
 ### Currently reading  
-_When We Cease to Understand the World_ by Benjamín Labatut, translated by Adrian Nathan West  
+_Frankenstein_ by Mary Shelley  
     
 ### Finished
 1. _The Navigator's Children_ by Tad Williams
+2. _When We Cease to Understand the World_ by Benjamín Labatut, translated by Adrian Nathan West
 
 ## Cinema visits
 1. _The Substance_ (2024) - Cinéma Galeries
