@@ -1,6 +1,9 @@
 remote_theme: jekyll/minima
 title: tijsboussier.eu
+url: https://tijsboussier.eu
 name: "Tijs Boussier"
+author: "Tijs Boussier"
+tagline: "A personal playground, or a dime-in-a-dozen blog. Your pick."
 description: "This website is a playground, to mess around with writing and web design. For right now, though, it really is just a dime-in-a-dozen blog."
 header_pages:
   - now.md
@@ -14,7 +17,5 @@ minima:
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-collections:
-  tags:
-    output: true
-    permalink: tags/:path/
+  - jekyll-seo-tag
+
