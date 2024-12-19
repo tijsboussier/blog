@@ -3,6 +3,7 @@ date: 2024-11-30
 layout: page
 title: "Changelog November 2024"
 ---
+
 Last updated on {{ page.date | date: '%e %B %Y' }}
 
 ## 30 November 2024
