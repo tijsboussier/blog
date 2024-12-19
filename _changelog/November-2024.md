@@ -4,7 +4,6 @@ layout: page
 title: "Changelog"
 name: "November 2024"
 ---
-<a href="{{site.baseurl}}/changelog#history">All changelogs.</a>
 
 ## November 2024
 
