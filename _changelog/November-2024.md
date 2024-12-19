@@ -1,6 +1,6 @@
 ---
 date: 2024-11-30
-layout: page
+layout: changelog
 title: "Changelog"
 name: "November 2024"
 ---
