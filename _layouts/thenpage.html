@@ -1,0 +1,16 @@
+---
+layout: base
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+    <p class="infobox">This is {{ page.name }}'s [Now-page](https://nownownow.com/about). Last updated on Last updated on {{ page.date | date: '%e %B %Y' }}.</p>
+    {{ content }}
+  </div>
+
+</article>
+
