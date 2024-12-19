@@ -11,7 +11,7 @@ permalink: /changelog
 <h2 class="top-bordered" id="history">History</h2>
 
 <ul>
-  {% for changelog in site.changelog reversed %}
+  {% for changelog in site.changelog reversed offset:1 %}
       <li><a href="{{ changelog.url }}">{{ changelog.name }}</a></li>
   {% endfor %}
 </ul>
