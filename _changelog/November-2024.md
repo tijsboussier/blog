@@ -5,8 +5,6 @@ title: "Changelog"
 name: "November 2024"
 ---
 
-## November 2024
-
 ### 30 November 2024
 - Set up a local test environment for this website, so I won't have to run tests in production anymore.
 
