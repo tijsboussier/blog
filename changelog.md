@@ -3,11 +3,10 @@ layout: page
 title: "Changelog"
 permalink: /changelog
 ---
-Recent updates. For a full history, check [here](#history).
+Recent updates. For a full history, check [below](#history).
 
-{% for changelog in site.changelog limit:1 %}
-  {{ changelog.content}}
-{% endfor %}
+{% assign changelog = site.changelog %}
+  {{ changelog.last.content}}
 
 ## History
 
