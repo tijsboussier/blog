@@ -20,4 +20,5 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 collections:
-  - changelog
+  changelog:
+    output: true
