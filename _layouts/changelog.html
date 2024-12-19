@@ -8,8 +8,7 @@ layout: base
   </header>
 
   <div class="post-content">
-    <h2>{{ page.name | escape }}</h2>
-    <p><a href="{{site.baseurl}}/changelog#history">All changelogs.</a></p>
+    <p class="post-meta">Version: {{ page.name }}. Go to <a href="{{site.baseurl}}/changelog#history">all changelogs.</a></p>
     {{ content }}
   </div>
 
