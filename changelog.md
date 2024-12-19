@@ -12,6 +12,6 @@ Recent updates. For a full history, check [below](#history).
 
 <ul>
   {% for changelog in site.changelog reversed %}
-      <li><a href="{{ changelog.url }}">{{ changelog.name | markdownify }}</a></li>
+      <li><a href="{{ changelog.url }}">{{ changelog.name }}</a></li>
   {% endfor %}
 </ul>
