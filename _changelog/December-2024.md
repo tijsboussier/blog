@@ -2,6 +2,7 @@
 date: 2024-12-18
 layout: page
 title: "Changelog"
+name: "December 2024"
 ---
 
 ## December 2024
