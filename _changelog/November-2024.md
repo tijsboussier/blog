@@ -2,7 +2,6 @@
 date: 2024-11-30
 layout: page
 title: "Changelog November 2024"
-permalink: /changelog
 ---
 Last updated on {{ page.date | date: '%e %B %Y' }}
 
