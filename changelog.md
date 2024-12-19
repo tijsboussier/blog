@@ -3,12 +3,12 @@ layout: page
 title: "Changelog"
 permalink: /changelog
 ---
-Recent updates. For a full history, check [below](#history).
+<p class="infobox">Recent updates. For a full history, check <a href="#history">below</a>.</p>
 
 {% assign changelog = site.changelog %}
   {{ changelog.last.content}}
 
-## History
+<h2 class="top-bordered" id="history">History</h2>
 
 <ul>
   {% for changelog in site.changelog reversed %}
