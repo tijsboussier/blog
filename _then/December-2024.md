@@ -1,6 +1,6 @@
 ---
 date: 2024-12-18
-layout: page
+layout: thenpage
 title: "What I Was Doing Then"
 name: "December 2024"
 ---
