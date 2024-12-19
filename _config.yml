@@ -24,3 +24,6 @@ collections:
     output: true
   then:
     output: true
+  tags:
+    output: true
+    permalink: tags/:path/
