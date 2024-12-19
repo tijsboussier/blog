@@ -7,11 +7,9 @@ layout: base
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
 
-  <h2>{{ page.name | escape }}</h2>
-  
-  <p><a href="{{site.baseurl}}/changelog#history">All changelogs.</a></p>
-  
   <div class="post-content">
+    <h2>{{ page.name | escape }}</h2>
+    <p><a href="{{site.baseurl}}/changelog#history">All changelogs.</a></p>
     {{ content }}
   </div>
 
