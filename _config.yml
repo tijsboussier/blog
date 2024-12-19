@@ -22,3 +22,5 @@ plugins:
 collections:
   changelog:
     output: true
+  then:
+    output: true
