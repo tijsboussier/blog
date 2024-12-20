@@ -5,9 +5,13 @@ title: "Changelog"
 name: "December 2024"
 ---
 
+### 20 December
+- Improved the robots.txt file.
+
 ### 19 December
 - Disallowed bots used to collect content to train LLMs on from crawling this website by adding this information to the robots.txt file. I'm aware that this is not really the best solution to this particular issue, that some players in the AI space blankly ignore the robots.txt file, but it's what we have so far.
 - The changelog was getting a bit long, so I cut it into pieces (one changelog per month), and created a collection to group them together on an overview page, which on top of a list of all changelogs also has the latest changelog's content in full.
+- Played around with colours, _again_.
 
 ### 18 December 2024
 - You can't find this website on Google. So I set up some SEO stuff in the config file, verified my ownership of the domain on Google Search Console, and added a sitemap and a robots.txt file, in an effort to hopefully change that.
