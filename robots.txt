@@ -2,7 +2,9 @@
 layout: none
 ---
 User-agent: *
-Sitemap: {{ site.url }}/sitemap.xml
+Allow: /
+
+Sitemap: https://tijsboussier.eu/sitemap.xml
 
 User-agent: anthropic-ai
 User-agent: Applebot-Extended
