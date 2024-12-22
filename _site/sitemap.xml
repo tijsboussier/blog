@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/changelog/November-2024.html</loc>
+<lastmod>2024-11-30T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/changelog/December-2024.html</loc>
+<lastmod>2024-12-18T00:00:00+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/2024/11/27/Beyond-Time-for-Stories-Like-These.html</loc>
 <lastmod>2024-11-27T00:00:00+01:00</lastmod>
 </url>
@@ -13,6 +21,22 @@
 <lastmod>2024-12-12T00:00:00+01:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/tags/2024-Reading-Year-in-Review/</loc>
+<lastmod>2024-12-21T12:13:52+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/tags/Books/</loc>
+<lastmod>2024-12-21T12:13:52+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/tags/Hugo-Winners/</loc>
+<lastmod>2024-12-21T12:13:52+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/then/Dummy.html</loc>
+<lastmod>2024-12-18T00:00:00+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about</loc>
 </url>
 <url>
@@ -23,5 +47,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/now</loc>
+</url>
+<url>
+<loc>http://localhost:4000/then</loc>
 </url>
 </urlset>

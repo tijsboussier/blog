@@ -1,5 +1,5 @@
 ---
-date: 2024-12-18
+date: 2024-12-22
 layout: page
 permalink: /now
 title: "What I'm Doing Now"
@@ -30,3 +30,4 @@ _Frankenstein_ by Mary Shelley
 3. _Wicked: Part 1_ (2024) - UGC De Brouckère
 4. _A Streetcar Named Desire_ (1951) - Cinematek
 5. _No Other Land_ (2024) - Cinéma Palace
+6. *Christmas Evil* (1980) - Cinéma Nova

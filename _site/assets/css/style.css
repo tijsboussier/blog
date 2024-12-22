@@ -288,14 +288,14 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #26619C;
+  color: #2E86AB;
   text-decoration: none;
 }
 a:visited {
-  color: #8FADCB;
+  color: #81B6CC;
 }
 a:hover {
-  color: #26619C;
+  color: #2E86AB;
   text-decoration: underline;
 }
 .social-media-list a:hover, .pagination a:hover {
@@ -792,7 +792,7 @@ h2, h4, h6 {
 
 /* Link stylings */
 .page-content p a:hover, .page-content li a:hover {
-  background-color: #E3EBF2;
+  background-color: #EAF2F6;
 }
 
 .page-content li h3 a:hover {
@@ -800,7 +800,7 @@ h2, h4, h6 {
 }
 
 a:visited:hover {
-  color: #8FADCB;
+  color: #81B6CC;
 }
 
 .site-title:visited:hover {
@@ -826,7 +826,7 @@ a:visited:hover {
   width: 25%;
 }
 
-/* Style for my own div classes */
+/* Style for my own classes */
 .infobox {
   border-top: 1px solid #777978;
   border-bottom: 1px solid #777978;
@@ -837,7 +837,7 @@ a:visited:hover {
   font-weight: 600;
 }
 
-.tagbox {
+.top-bordered {
   border-top: 1px solid #777978;
   padding-top: 30px;
 }
