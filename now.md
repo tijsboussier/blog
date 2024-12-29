@@ -1,5 +1,5 @@
 ---
-date: 2024-12-22
+date: 2024-12-29
 layout: page
 permalink: /now
 title: "What I'm Doing Now"
@@ -18,11 +18,12 @@ This is my [Now-page](https://nownownow.com/about), inspired by [Derek Sivers](h
 ## Books
 
 ### Currently reading  
-_Frankenstein_ by Mary Shelley  
+*The Red Parts* by Maggie Nelson
     
 ### Finished
 1. _The Navigator's Children_ by Tad Williams
 2. _When We Cease to Understand the World_ by Benjamín Labatut, translated by Adrian Nathan West
+3. _Frankenstein_ by Mary Shelley
 
 ## Cinema visits
 1. _The Substance_ (2024) - Cinéma Galeries
@@ -31,3 +32,4 @@ _Frankenstein_ by Mary Shelley
 4. _A Streetcar Named Desire_ (1951) - Cinematek
 5. _No Other Land_ (2024) - Cinéma Palace
 6. *Christmas Evil* (1980) - Cinéma Nova
+7. *Miller's Crossing* (1990) - Cinematek
