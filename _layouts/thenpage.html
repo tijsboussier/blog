@@ -8,7 +8,8 @@ layout: base
   </header>
 
   <div class="post-content">
-    <p>This is {{ page.name }}'s <a href="https://nownownow.com/about" target="_blank">Now-page</a>. Last updated on {{ page.date | date: '%e %B %Y' }}.</p>
+    <p>This was my <a href="https://nownownow.com/about" target="_blank">Now-page</a> for {{ page.date | date: '%B %Y' }}. Last updated on {{ page.date | date: '%e %B %Y' }}.<br />
+    Go to <a href="{{site.baseurl}}/now">current Now-page</a> or <a href="{{site.baseurl}}/then">full archive</a> instead.</p>
     {{ content }}
   </div>
 

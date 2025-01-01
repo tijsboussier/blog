@@ -1,11 +1,11 @@
 ---
-date: 2024-12-29
+date: 2025-01-01
 layout: page
 permalink: /now
 title: "What I'm Doing Now"
 navlink: Now
 ---
-This is my [Now-page](https://nownownow.com/about), inspired by [Derek Sivers](https://sive.rs/). Last updated on {{ page.date | date: '%e %B %Y' }}.
+This is my <a href="https://nownownow.com/about" target="_blank">Now-page</a>, inspired by <a href="https://sive.rs/" target="_blank">Derek Sivers</a>. Last updated on {{ page.date | date: '%e %B %Y' }}. Archive <a href="{{site.baseurl}}/then">here</a>.
 
 ## Projects
 
@@ -13,23 +13,17 @@ This is my [Now-page](https://nownownow.com/about), inspired by [Derek Sivers](h
 - **This blog**. After years of talking about it, I have finally gone and done it. I've been loving writing and posting, as well as tinkering with how this place looks. I'm keeping track of changes that have to do with layout, style and structure [here]({{site.baseurl}}/changelog).
 
 ## Odds and ends
-- In June I got myself a [Cinéville Pass](https://cinevillepass.be/en-BE). For a fixed monthly fee I get to go to the movies as often as I like at participating cinemas and in Brussels, where I live, this includes all of the independent ones. I continue to make good use of it also now that the honeymoon period has waned, and not only have I seen more movies in 2024 than I have in years, I'm also checking out movies I would never have otherwise. I feel really good about this.
+- I spent the last week and a half of December with family. First my mother, my sisters and their families, my boyfriend and I stayed a few days somewhere close to Breda, then my boyfriend and I left a day early to go to Wolfsburg, Germany, of all places, to be with his family for a few days. (Note to future self: Wolfsburg is not a city anyone should want to visit, though the Kunstmuseum was nice.) Holidays were celebrated, gifts exchanged, food shared, good times had. Maybe a cleanse is appropriate now, after the copious amounts of food I consumed.
+
+<figure>
+    <img src="{{site.baseurl}}/docs/assets/images/VWsmall.jpg" />
+    <figcaption>Volkswagen-Werk in Wolfsburg. The only building that impressed me to some extent when seeing it up close. Photo by me.</figcaption>
+</figure>
 
 ## Books
 
 ### Currently reading  
 *The Red Parts* by Maggie Nelson
-    
-### Finished
-1. _The Navigator's Children_ by Tad Williams
-2. _When We Cease to Understand the World_ by Benjamín Labatut, translated by Adrian Nathan West
-3. _Frankenstein_ by Mary Shelley
 
 ## Cinema visits
-1. _The Substance_ (2024) - Cinéma Galeries
-2. _Gladiator II_ (2024) - Kinepolis Hasselt
-3. _Wicked: Part 1_ (2024) - UGC De Brouckère
-4. _A Streetcar Named Desire_ (1951) - Cinematek
-5. _No Other Land_ (2024) - Cinéma Palace
-6. *Christmas Evil* (1980) - Cinéma Nova
-7. *Miller's Crossing* (1990) - Cinematek
+None yet.

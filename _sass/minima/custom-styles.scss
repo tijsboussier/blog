@@ -101,3 +101,20 @@ a:visited:hover {
   border-top: 1px solid #777978;
   padding-top: 30px;
 }
+
+/* Style for pictures */
+
+figure {
+  max-width: 70%;
+  margin: auto;
+}
+
+figure img {
+  margin: auto;
+}
+
+figcaption {
+  padding: 1em;
+  text-align: justify;
+  background-color: #e8e8e8;
+}
