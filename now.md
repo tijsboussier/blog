@@ -13,11 +13,11 @@ This is my <a href="https://nownownow.com/about" target="_blank">Now-page</a>, i
 - **This blog**. After years of talking about it, I have finally gone and done it. I've been loving writing and posting, as well as tinkering with how this place looks. I'm keeping track of changes that have to do with layout, style and structure [here]({{site.baseurl}}/changelog).
 
 ## Odds and ends
-- I spent the last week and a half of December with family. First my mother, my sisters and their families, my boyfriend and I stayed a few days somewhere close to Breda, then my boyfriend and I left a day early to go to Wolfsburg, Germany, of all places, to be with his family for a few days. (Note to future self: Wolfsburg is not a city anyone should want to visit, though the Kunstmuseum was nice.) Holidays were celebrated, gifts exchanged, food shared, good times had. Maybe a cleanse is appropriate now, after the copious amounts of food I consumed.
+- I spent the last week and a half of December with family. First my mother, my sisters and their families, my boyfriend and I stayed a few days in a vacation home close to Breda, then my boyfriend and I travelled to Wolfsburg, Germany to be with his family for half a week. (Note to future self: Wolfsburg is not a city you'd want to visit again, though the Kunstmuseum was nice.) Holidays were celebrated, gifts handed over, wishes exchanged, copious amounts of food consumed, and good times had.
 
 <figure>
     <img src="{{site.baseurl}}/docs/assets/images/VWsmall.jpg" />
-    <figcaption>Volkswagen-Werk in Wolfsburg. The only building that impressed me to some extent when seeing it up close. Photo by me.</figcaption>
+    <figcaption>Volkswagen-Werk in Wolfsburg. The only building that is centre-adjacent that impressed me to some extent when seeing it up close. (The castle was nice, too, but is just outside of the centre.) Photo by me.</figcaption>
 </figure>
 
 ## Books
