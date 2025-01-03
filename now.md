@@ -1,5 +1,5 @@
 ---
-date: 2025-01-01
+date: 2025-01-03
 layout: page
 permalink: /now
 title: "What I'm Doing Now"
@@ -22,8 +22,11 @@ This is my <a href="https://nownownow.com/about" target="_blank">Now-page</a>, i
 
 ## Books
 
-### Currently reading  
-*The Red Parts* by Maggie Nelson
+### Currently reading
+*The Other Name: Septology I-II* by Jon Fosse, translated by Damion Searls
+
+### Finished
+1. *The Red Parts* by Maggie Nelson
 
 ## Cinema visits
-None yet.
+1. *Nosferatu* (2024) - Cinéma Aventure
