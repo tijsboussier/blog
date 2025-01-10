@@ -7,3 +7,4 @@ name: "January 2025"
 
 ### 10 January 2025
 - Slightly reduced the size of the post titles on the homepage and removed the thick black border at the top of the header.
+- Changed the font and styling for headings.
