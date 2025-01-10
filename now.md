@@ -1,5 +1,5 @@
 ---
-date: 2025-01-03
+date: 2025-01-10
 layout: page
 permalink: /now
 title: "What I'm Doing Now"
@@ -30,3 +30,6 @@ This is my <a href="https://nownownow.com/about" target="_blank">Now-page</a>, i
 
 ## Cinema visits
 1. *Nosferatu* (2024) - Cinéma Aventure
+2. _The Room Next Door_ (2024) - Cinéma Palace
+3. _Wicked: Part 1_ (2024) - Cinéma Palace
+4. _Bird_ (2024) - Cinéma Galeries
