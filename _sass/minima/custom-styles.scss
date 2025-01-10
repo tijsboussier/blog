@@ -1,10 +1,14 @@
-/* Sticky header */
+/* Sticky header + remove black bar on top */
 
 .site-header {
   position: sticky;
   top: 0;
   background-color: #FDFDFD;
   backdrop-filter: opacity(100%);
+}
+
+.site-header {
+  border-top: 0;
 }
 
 /* Changes to the footer */
