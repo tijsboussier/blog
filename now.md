@@ -1,5 +1,5 @@
 ---
-date: 2025-01-10
+date: 2025-01-17
 layout: page
 permalink: /now
 title: "What I'm Doing Now"
@@ -23,13 +23,16 @@ This is my <a href="https://nownownow.com/about" target="_blank">Now-page</a>, i
 ## Books
 
 ### Currently reading
-*The Other Name: Septology I-II* by Jon Fosse, translated by Damion Searls
+_The Man in the High Castle_ by Philip K. Dick
 
 ### Finished
 1. *The Red Parts* by Maggie Nelson
+2. *The Other Name: Septology I-II* by Jon Fosse, translated by Damion Searls
 
 ## Cinema visits
 1. *Nosferatu* (2024) - Cinéma Aventure
 2. _The Room Next Door_ (2024) - Cinéma Palace
 3. _Wicked: Part 1_ (2024) - Cinéma Palace
 4. _Bird_ (2024) - Cinéma Galeries
+5. _All Of Us Strangers_ (2023) - Cinéma Galeries
+6. _Flow_ (2024) - Cinéma Galeries
