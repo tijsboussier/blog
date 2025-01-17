@@ -51,28 +51,6 @@ h2, h3, h4, h5, h6 {
   font-size: 1.1em;
 }
 
-/* Link stylings */
-
-.page-content p a:hover, .page-content li a:hover {
-  background-color: #EAF2F6;
-}
-
-.page-content li h3 a:hover {
-  background-color: transparent;
-}
-
-a:visited:hover {
-  color: #81B6CC;
-}
-
-.site-title:visited:hover {
-  color: #424242;
-}
-
-.page-link:visited:hover {
-  color: #04151F;
-}
-
 /* Add heading to footnotes */
 
 .footnotes {
