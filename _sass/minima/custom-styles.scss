@@ -32,18 +32,19 @@ p strong, li strong {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "DM Serif Text", serif;
+  font-family: "Domine", serif;
   word-wrap: break-word;
   font-optical-sizing: auto;
-  font-weight: 400;
 }
 
 h1 {
   letter-spacing: -1px;
+  font-weight: 700;
 }
 
 h2, h3, h4, h5, h6 {
   letter-spacing: 0px;
+  font-weight: 500;
 }
 
 .post-link {
