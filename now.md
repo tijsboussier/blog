@@ -1,5 +1,5 @@
 ---
-date: 2025-01-17
+date: 2025-01-18
 layout: page
 permalink: /now
 title: "What I'm Doing Now"
@@ -36,3 +36,4 @@ _The Man in the High Castle_ by Philip K. Dick
 4. _Bird_ (2024) - Cinéma Galeries
 5. _All Of Us Strangers_ (2023) - Cinéma Galeries
 6. _Flow_ (2024) - Cinéma Galeries
+7. *Babygirl* (2024) - Cinéma Palace
