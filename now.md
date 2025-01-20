@@ -1,5 +1,5 @@
 ---
-date: 2025-01-18
+date: 2025-01-20
 layout: page
 permalink: /now
 title: "What I'm Doing Now"
@@ -23,17 +23,20 @@ This is my <a href="https://nownownow.com/about" target="_blank">Now-page</a>, i
 ## Books
 
 ### Currently reading
-_The Man in the High Castle_ by Philip K. Dick
 
 ### Finished
 1. *The Red Parts* by Maggie Nelson
 2. *The Other Name: Septology I-II* by Jon Fosse, translated by Damion Searls
+3. _The Man in the High Castle_ by Philip K. Dick
 
 ## Cinema visits
 1. *Nosferatu* (2024) - Cinéma Aventure
 2. _The Room Next Door_ (2024) - Cinéma Palace
-3. _Wicked: Part 1_ (2024) - Cinéma Palace
+3. _Wicked: Part 1_ (2024) - Cinéma Palace (rewatch)
 4. _Bird_ (2024) - Cinéma Galeries
 5. _All Of Us Strangers_ (2023) - Cinéma Galeries
 6. _Flow_ (2024) - Cinéma Galeries
 7. *Babygirl* (2024) - Cinéma Palace
+8. *Spellbound* (1945) - Cinematek
+9. *Flow* (2024) - Cinéma Palace (rewatch)
+10. *Rekopis znaleziony w Saragossie* (1965) - Cinematek
