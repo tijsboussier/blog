@@ -288,14 +288,14 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #2E86AB;
+  color: #4666FF;
   text-decoration: none;
 }
 a:visited {
-  color: #81B6CC;
+  color: #2A3D99;
 }
 a:hover {
-  color: #2E86AB;
+  color: #4666FF;
   text-decoration: underline;
 }
 .social-media-list a:hover, .pagination a:hover {
@@ -744,12 +744,16 @@ table td {
     width: calc(50% - 30px / 2);
   }
 }
-/* Sticky header */
+/* Sticky header + remove black bar on top */
 .site-header {
   position: sticky;
   top: 0;
   background-color: #FDFDFD;
   backdrop-filter: opacity(100%);
+}
+
+.site-header {
+  border-top: 0;
 }
 
 /* Changes to the footer */
@@ -761,7 +765,7 @@ table td {
   text-align: center;
 }
 
-/* Paragraphs and headings */
+/* Paragraphs, headings and blockquotes */
 p {
   text-align: justify;
 }
@@ -771,44 +775,27 @@ p strong, li strong {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Merriweather", serif;
+  font-family: "Scope One", serif;
   word-wrap: break-word;
   font-optical-sizing: auto;
+  letter-spacing: -1px;
 }
 
 h1 {
-  font-weight: 700;
-  letter-spacing: -1px;
+  font-weight: 600;
 }
 
 h2, h3, h4, h5, h6 {
   font-weight: 400;
-  letter-spacing: 0px;
 }
 
-h2, h4, h6 {
-  font-style: italic;
+.post-link {
+  font-size: 1.1em;
+  font-weight: 600;
 }
 
-/* Link stylings */
-.page-content p a:hover, .page-content li a:hover {
-  background-color: #EAF2F6;
-}
-
-.page-content li h3 a:hover {
-  background-color: transparent;
-}
-
-a:visited:hover {
-  color: #81B6CC;
-}
-
-.site-title:visited:hover {
-  color: #424242;
-}
-
-.page-link:visited:hover {
-  color: #04151F;
+blockquote {
+  font-size: 1rem;
 }
 
 /* Add heading to footnotes */
@@ -838,8 +825,32 @@ a:visited:hover {
 }
 
 .top-bordered {
-  border-top: 1px solid #777978;
+  border-top: 1px solid #f1f1f1;
   padding-top: 30px;
+}
+
+.tag-name {
+  color: #4666FF;
+  background-color: #ECEFFF;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+
+.tag-name:hover {
+  color: #4666FF;
+  background-color: #DAE0FF;
+  text-decoration: none;
+}
+
+.tag-name:visited {
+  color: #4666FF;
+}
+
+.category-name {
+  color: #4666FF;
+  background-color: #ECEFFF;
+  border-radius: 5px;
+  padding: 5px 10px;
 }
 
 /* Style for pictures */

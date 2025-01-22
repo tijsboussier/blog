@@ -6,6 +6,7 @@ author: "Tijs Boussier"
 tagline: "A personal playground, or a dime-in-a-dozen blog. Your pick."
 description: "This website is a playground, to mess around with writing and web design. For right now, though, it really is just a dime-in-a-dozen blog."
 header_pages:
+  - notes.md
   - now.md
   - about.md
 minima:
@@ -23,6 +24,8 @@ collections:
   changelog:
     output: true
   then:
+    output: true
+  notes:
     output: true
   tags:
     output: true

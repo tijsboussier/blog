@@ -21,7 +21,7 @@
   text-align: center;
 }
 
-/* Paragraphs and headings */
+/* Paragraphs, headings and blockquotes */
 
 p {
   text-align: justify;
@@ -49,6 +49,10 @@ h2, h3, h4, h5, h6 {
 .post-link {
   font-size: 1.1em;
   font-weight: 600;
+}
+
+blockquote {
+  font-size: 1rem;
 }
 
 /* Add heading to footnotes */
@@ -99,6 +103,13 @@ h2, h3, h4, h5, h6 {
 
 .tag-name:visited {
   color: #4666FF;
+}
+
+.category-name {
+  color: #4666FF;
+  background-color: #ECEFFF;
+  border-radius: 5px;
+  padding: 5px 10px;
 }
 
 /* Style for pictures */
