@@ -80,17 +80,18 @@ h2, h3, h4, h5, h6 {
 }
 
 .top-bordered {
-  border-top: 1px solid #777978;
+  border-top: 1px solid #f1f1f1;
   padding-top: 30px;
 }
 
 .tag-name {
   background-color: #e8e8e8;
-  border-radius: 5%;
+  border-radius: 10%;
+  padding: 10%;
 }
 
 .tag-name:hover {
-  background-color: #B9B9B9;
+  background-color: #e3e4e4;
 }
 
 /* Style for pictures */
