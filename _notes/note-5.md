@@ -1,7 +1,7 @@
 ---
 date: 2025-01-17 12:00
 layout: note
-title: "The Joy of Sulk"
+title: "The Endless Appetite for Fanfiction"
 categories:
     - Fan culture
     - Fanfiction
