@@ -846,6 +846,54 @@ blockquote {
   color: #4666FF;
 }
 
+/* Stuff for notes page */
+.notecontainer {
+  margin-bottom: 30px;
+  display: flex;
+  align-items: baseline;
+}
+
+.notlast {
+  border-bottom: 1px solid #777978;
+  padding-bottom: 15px;
+}
+
+.notediv1 {
+  width: 30%;
+}
+
+.notediv1mobile {
+  display: none;
+}
+
+.notediv2 {
+  width: 70%;
+}
+
+@media (max-width: 800px) {
+  .notecontainer {
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+  }
+  .notediv1 {
+    display: none;
+  }
+  .notediv1mobile {
+    display: block;
+    width: 100%;
+  }
+  .notediv1mobile p {
+    text-align: left;
+    line-height: 2.4rem;
+  }
+  .notediv1mobile p span {
+    white-space: nowrap;
+  }
+  .notediv2 {
+    width: 100%;
+  }
+}
 .category-name {
   color: #4666FF;
   background-color: #ECEFFF;

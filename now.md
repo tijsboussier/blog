@@ -1,5 +1,5 @@
 ---
-date: 2025-01-20
+date: 2025-01-22
 layout: page
 permalink: /now
 title: "What I'm Doing Now"
@@ -23,6 +23,7 @@ This is my <a href="https://nownownow.com/about" target="_blank">Now-page</a>, i
 ## Books
 
 ### Currently reading
+*I Is Another: Septology III-V* by Jon Fosse, translated by Damion Searls
 
 ### Finished
 1. *The Red Parts* by Maggie Nelson

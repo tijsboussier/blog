@@ -5,7 +5,6 @@ title: "Why Is ‘Dungeons & Dragons’ Still So Misunderstood?"
 categories:
     - Board games
     - Fantasy
-    - Science Fiction
 ---
 ## <a href="https://www.vulture.com/article/is-dungeons-and-dragons-fun-game-popularity-misunderstood.html" target="_blank">Why Is ‘Dungeons & Dragons’ Still So Misunderstood?</a> by Andrea Long Chu
 

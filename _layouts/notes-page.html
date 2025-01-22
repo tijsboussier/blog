@@ -9,36 +9,12 @@ layout: base
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     {% for note in my_notes_order %}
         {%- if forloop.last == false %}
-            <div style="margin-bottom: 30px; border-bottom: 1px solid #777978; padding-bottom: 15px; display: flex; align-items: baseline;">
-                <div style="width: 30%;">
-                    <p class="post-meta">
-                        {{ note.date | date: date_format }}
-                    </p>
-                    {% if note.categories.size > 0 %}
-                        <p>
-                            {% if note.categories.size == 1 %}
-                                <strong>Category: </strong> 
-                            {% endif %}
-                            {% if note.categories.size > 1 %}
-                                <strong>Categories:<br /></strong>
-                            {% endif %}
-                        </p>
-                    {%- endif -%}
-                    {% for category in note.categories %}
-                        <p><span class="category-name">{{ category }}</span></p>
-                    {% endfor %}
-                </div>
-                <div style="width: 70%; vertical-align: top;">
-                        {{ note.content | markdownify }}
-                </div>
-            </div>
-        {% endif -%}
+            <div class="notecontainer notlast">
+        {% endif %}
         {%- if forloop.last == true %}
-            <div style="margin-bottom: 30px; display: flex; align-items: baseline;">
-                <div style="width: 30%;">
-                    <p class="post-meta">
-                        {{ note.date | date: date_format }}
-                    </p>
+            <div class="notecontainer">
+        {% endif %}
+                <div class="notediv1">
                     {% if note.categories.size > 0 %}
                         <p>
                             {% if note.categories.size == 1 %}
@@ -53,9 +29,23 @@ layout: base
                         <p><span class="category-name">{{ category }}</span></p>
                     {% endfor %}
                 </div>
-                <div style="width: 70%; vertical-align: top;">
-                        {{ note.content | markdownify }}
+                <div class="notediv1mobile">
+                    {% if note.categories.size > 0 %}
+                        <p>
+                            {% if note.categories.size == 1 %}
+                                <strong>Category: </strong> 
+                            {% endif %}
+                            {% if note.categories.size > 1 %}
+                                <strong>Categories: </strong>
+                            {% endif %}
+                    {%- endif -%}
+                        {% for category in note.categories %}
+                            <span class="category-name">{{ category }}</span>{%- if forloop.last == false %}&nbsp;{% endif %}
+                        {% endfor %}
+                    </p>
+                </div>
+                <div class="notediv2">
+                    {{ note.content | markdownify }}                    
                 </div>
             </div>
-    {% endif -%}
     {% endfor %}
