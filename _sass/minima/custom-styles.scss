@@ -88,12 +88,16 @@ h2, h3, h4, h5, h6 {
   color: #04151F;
   background-color: #e5f3ec;
   border-radius: 5px;
-  padding: 5px;
+  padding: 5px 10px;
 }
 
 .tag-name:hover {
   color: #04151F;
   background-color: #cce8d9;
+}
+
+.tag-name:visited {
+  color: #04151F;
 }
 
 /* Style for pictures */
