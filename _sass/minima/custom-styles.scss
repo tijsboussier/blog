@@ -195,6 +195,16 @@ details > summary::-webkit-details-marker {
   display: none;
 }
 
+/* Different text when open or closed */
+
+details.description[open] summary::after {
+  content: attr(data-open);
+}
+
+details.description:not([open]) summary::after {
+  content: attr(data-close);
+}
+
 /* Change styling of summary */
 
 details > summary {
