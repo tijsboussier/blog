@@ -8,7 +8,8 @@
         <link>{{ site.url }}</link>
         <copyright>All rights reserved.</copyright>
         <description>{{ collection.description }}</description>
-        <atom:link href="{{ page.url | absolute_url }}" rel="self" type="application/rss+xml" />
+        <link href="{{ page.url | absolute_url }}" rel="self" type="application/atom+xml" />
+        <link href="{{ '/' | absolute_url }}" rel="alternate" type="text/html" {% if site.lang %}hreflang="{{ site.lang }}" {% endif %}/>
         {% for post in posts limit:20 %}
             <item>
                 <title>{{ post.title | strip_html }}</title>
