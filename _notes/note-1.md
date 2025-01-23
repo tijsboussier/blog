@@ -1,7 +1,7 @@
 ---
 date: 2025-01-07
 layout: note
-title: "<a href="https://aeon.co/essays/sulking-is-a-fascinating-form-of-indirect-communication" target="_blank">The Joy of Sulk</a> by Rebecca Roache"
+title: <a href="https://aeon.co/essays/sulking-is-a-fascinating-form-of-indirect-communication" target="_blank">The Joy of Sulk</a> by Rebecca Roache
 categories:
     - Anthropology
 ---
