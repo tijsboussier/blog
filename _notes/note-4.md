@@ -10,7 +10,7 @@ categories:
 
 In the aftermath of last year's US presidential elections, amid uncertainty and fear around what Trump's presidency has in store for us in the months and years ahead, Julie Philips looks towards Ursula K. Le Guin for inspiration on how to resist without buckling under the pressure.  
 
-<details>
+<details markdown="1">
 <summary>(Read more ...)</summary>
 
 After re-reading an essay that Ursula K. Le Guin wrote shortly after Trump's first presidential election win in 2016, Philips dives into the author's life beyond her illustrious writing career, as a political activist on the local and (sometimes) national level, and shows how the writer fought for and defended the issues, ideas and values she believed in on her own terms, not by engaging the ones she opposed directly all that often, but instead by holding steady, staying her ground, patiently performing the often menial labour of grassroots activism.  
