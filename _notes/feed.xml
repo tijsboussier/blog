@@ -1,0 +1,5 @@
+---
+layout: null
+---
+
+{% include collection_feed.xml %}
