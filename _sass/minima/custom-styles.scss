@@ -195,6 +195,14 @@ details > summary::-webkit-details-marker {
   display: none;
 }
 
+details summary::before {
+  content: "(Read more ...)";
+}
+
+details[open] summary::before {
+  content: "(Read less ...)";
+}
+
 /* Change styling of summary */
 
 details > summary {
