@@ -1,7 +1,7 @@
 ---
 date: 2025-01-17 11:00
 layout: note
-title: <a href="https://lithub.com/the-way-of-water-on-the-quiet-power-of-ursula-k-le-guins-activism/" target="_blank">The Way of Water: On the Quiet Power of Ursula K. Le Guin’s Activism</a> by Julie Philips
+title: <a href="https://lithub.com/the-way-of-water-on-the-quiet-power-of-ursula-k-le-guins-activism/" target="_blank">The Way of Water&#58; On the Quiet Power of Ursula K. Le Guin’s Activism</a> by Julie Philips
 categories:
     - Activism
     - Ursula K. Le Guin
