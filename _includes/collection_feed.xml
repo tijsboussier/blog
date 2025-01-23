@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-{% assign collection_name = page.collection %}{%
-assign collection = site.collections | where:"label", collection_name | first %}{%
-assign posts = site[collection_name] | where:"layout", "note" | sort: 'date')
-%}<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="{{ site.lang }}">
+{% assign collection_name = page.collection %}
+{% assign collection = site.collections | where:"label", collection_name | first %}
+{% assign posts = site[collection_name] | where:"layout", "note" | sort: 'date') %}
+<feed xmlns="http://www.w3.org/2005/Atom" {% if site.lang %}xml:lang="{{ site.lang }}"{% endif %}>
     <channel>
         <title>{{ collection.title }}</title>
         <link>{{ site.url }}</link>
@@ -11,7 +11,7 @@ assign posts = site[collection_name] | where:"layout", "note" | sort: 'date')
         <atom:link href="{{ page.url | absolute_url }}" rel="self" type="application/rss+xml" />
         {% for post in posts limit:20 %}
             <item>
-                <title>{{ post.title | xml_escape }}</title>
+                <title>{{ post.title | strip_html }}</title>
                 <link>{{ post.url | absolute_url }}</link>
                 <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
                 <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}"><![CDATA[{{ post.content | markdownify }}]]></content>
