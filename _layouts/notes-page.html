@@ -25,10 +25,10 @@ layout: base
                                 <strong>Categories:<br /></strong>
                             {% endif %}
                         </p>
+                        {% for category in note.categories %}
+                            <p><span class="category-name">{{ category }}</span></p>
+                        {% endfor %}
                     {%- endif -%}
-                    {% for category in note.categories %}
-                        <p><span class="category-name">{{ category }}</span></p>
-                    {% endfor %}
                 </div>
                 <div class="notediv1mobile">
                     <p><span class="post-meta">{{ note.date | date: date_format }}</span></p>
@@ -40,11 +40,11 @@ layout: base
                             {% if note.categories.size > 1 %}
                                 <strong>Categories: </strong>
                             {% endif %}
+                            {% for category in note.categories %}
+                                <span class="category-name">{{ category }}</span>{%- if forloop.last == false %}&nbsp;{% endif %}
+                            {% endfor %}
+                        </p>
                     {%- endif -%}
-                        {% for category in note.categories %}
-                            <span class="category-name">{{ category }}</span>{%- if forloop.last == false %}&nbsp;{% endif %}
-                        {% endfor %}
-                    </p>
                 </div>
                 <div class="notediv2">
                     <h2>{{ note.title }}</h2>
