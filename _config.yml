@@ -29,7 +29,7 @@ collections:
     output: true
     title: Reading Notes
     description: "I read a lot online. Here I collect some of the best writing I come across, with some notes of my own."
-    permalink: notes/:path/
+    permalink: notes/:title/
   tags:
     output: true
     permalink: tags/:path/
