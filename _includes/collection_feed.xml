@@ -14,7 +14,7 @@ assign posts = site[collection_name] | where:"layout", "note" | sort: 'date')
                 <title>{{ post.title | xml_escape }}</title>
                 <link>{{ post.url | absolute_url }}</link>
                 <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-                <content:encoded>{{ post.content | markdownify }}</content:encoded>
+                <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}"><![CDATA[{{ post.content | strip }}]]></content>
                 <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
             </item>
         {% endfor %}
