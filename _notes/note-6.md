@@ -1,15 +1,13 @@
 ---
 date: 2025-01-20
 layout: note
-title: "The Good, The Bad, And The Stupid In Meta’s New Content Moderation Policies"
+title: <a href="https://www.techdirt.com/2025/01/08/the-good-the-bad-and-the-stupid-in-metas-new-content-moderation-policies/" target="_blank">The Good, The Bad, And The Stupid In Meta’s New Content Moderation Policies</a> by Mike Masnick
 categories:
     - Technology
     - Social media
     - Content moderation
     - Big Tech
 ---
-## <a href="https://www.techdirt.com/2025/01/08/the-good-the-bad-and-the-stupid-in-metas-new-content-moderation-policies/" target="_blank">The Good, The Bad, And The Stupid In Meta’s New Content Moderation Policies</a> by Mike Masnick
-
 Mike Masnick's analysis of Meta's new content moderation policies points out both the parts of it that make sense, and the parts of it that are just bad or stupid. I haven't made up my mind if I agree with everything it says, but it's nice to get a different, more nuanced take on it than I've seen in general.
 
 One thing I for sure am taking from it, though, is the following quote:

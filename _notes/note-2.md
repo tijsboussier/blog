@@ -1,13 +1,11 @@
 ---
 date: 2025-01-08
 layout: note
-title: "In Defense of Boris the Russki"
+title: <a href="https://longreads.com/2020/01/22/in-defense-of-boris-the-russki/?mc_cid=dcce99af04" target="_blank">In Defense of Boris the Russki</a> by Ayşegül Savaş
 categories:
     - Social justice
     - Literary criticism
 ---
-## <a href="https://longreads.com/2020/01/22/in-defense-of-boris-the-russki/?mc_cid=dcce99af04" target="_blank">In Defense of Boris the Russki</a> by Ayşegül Savaş
-
 The opening paragraphs might give the impression this essay by Ayşegül Savaş is nothing more than a piece of literary criticism focused on Donna Tartt's *The Goldfinch*. Put it aside for that reason and you'd be making a mistake, however. Savaş uses her discomfort with the novel's representation of Boris, the principal Russian character, as a jumping off point for a deeper exploration of how social justice discourse, despite and in contradiction of all its good intentions, favours certain groups of people over others. Liberal-minded people may no longer find it acceptable to present people of colour or LGBTQIA+ people in deeply stereotypical ways, for instance, but that same courtesy is not awarded Russian nationals, to name just one example. Why is that?
 
 Confronting some of her friends with these thoughts, their reactions show Savaş that apparently, "*we have a limited potential for caring, [...] we can only care about groups who are “innocent” in their history and political structure.*" Further on she formulates this as a question: "*is it alright to equate our disdain for a country’s politics — if that is at the heart of this — with its people?*"
