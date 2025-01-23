@@ -183,3 +183,25 @@ figcaption {
   text-align: justify;
   background-color: #e8e8e8;
 }
+
+/* COLLAPSABLES */
+/* Remove the arrow in front */
+
+details > summary {
+  list-style: none;
+}
+
+details > summary::-webkit-details-marker {
+  display: none;
+}
+
+/* Change styling of summary */
+
+details > summary {
+  color: #4666FF;
+}
+
+details > summary:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
