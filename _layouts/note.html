@@ -28,15 +28,15 @@ layout: base
       </header>
     
     <div class="post-content">
-        {% if note.categories.size > 0 %}
+        {% if page.categories.size > 0 %}
             <p>
-                {% if note.categories.size == 1 %}
+                {% if page.categories.size == 1 %}
                     <strong>Category: </strong> 
                 {% endif %}
-                {% if note.categories.size > 1 %}
+                {% if page.categories.size > 1 %}
                     <strong>Categories: </strong>
                 {% endif %}
-                {% for category in note.categories %}
+                {% for category in page.categories %}
                     <span class="category-name">{{ category }}</span>{%- if forloop.last == false %}&nbsp;{% endif %}
                 {% endfor %}
             </p>
