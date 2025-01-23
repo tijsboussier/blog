@@ -5,7 +5,7 @@ layout: base
 
 {{ content }}
 
-{% assign my_notes_order = site.notes | sort | reverse %}
+{% assign my_notes_order = site.notes | where:"layout", "note" | sort | reverse %}
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     {% for note in my_notes_order %}
         {%- if forloop.last == false %}
