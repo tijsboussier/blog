@@ -10,7 +10,8 @@
 
 {% unless breadcrumb_page == nil %}
   {% assign nohtml_text = breadcrumb_text | strip_html %}
-  <a href="{{ breadcrumb_page.url | relative_url }}">{{ nohtml_text }}</a>
+  <a href="{{ breadcrumb_page.url | relative_url }}">{{ nohtml_text | truncatewords: 6 }}</a>
 {% else %}
-  {{ nohtml_text }}
+  {{ nohtml_text | truncatewords: 6 }}
 {% endunless %}
+>
