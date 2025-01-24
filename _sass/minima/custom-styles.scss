@@ -105,7 +105,7 @@ blockquote {
   color: #4666FF;
 }
 
-/* Stuff for notes page */
+/* Stuff for notes and notes page */
 
 .notecontainer {
   margin-bottom: 30px; 
@@ -165,6 +165,11 @@ blockquote {
   background-color: #ECEFFF;
   border-radius: 5px;
   padding: 5px 10px;
+}
+
+.post-meta a {
+  color: 828296;
+  text-decoration: underline;
 }
 
 /* Style for pictures */
