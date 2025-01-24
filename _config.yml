@@ -32,3 +32,6 @@ collections:
   tags:
     output: true
     permalink: tags/:path/
+feed:
+  collections:
+    - notes
