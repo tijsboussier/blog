@@ -15,25 +15,21 @@ layout: base
             <div class="notecontainer">
         {% endif %}
                 <div class="notediv1">
-                    <div>
-                        <p><span class="post-meta">{{ note.date | date: date_format }}</span></p>
-                        {% if note.categories.size > 0 %}
-                            <p>
-                                {% if note.categories.size == 1 %}
-                                    <strong>Category: </strong> 
-                                {% endif %}
-                                {% if note.categories.size > 1 %}
-                                    <strong>Categories:<br /></strong>
-                                {% endif %}
-                            </p>
-                            {% for category in note.categories %}
-                                <p><span class="category-name">{{ category }}</span></p>
-                            {% endfor %}
-                        {%- endif -%}
-                    </div>
-                      <div class="referral">
-                        <p class="post-meta">&#8600; <a href="{{ note.url | relative_url }}">Permalink</a></p>
-                      </div>
+                    <p><span class="post-meta">{{ note.date | date: date_format }}</span></p>
+                    {% if note.categories.size > 0 %}
+                        <p>
+                            {% if note.categories.size == 1 %}
+                                <strong>Category: </strong> 
+                            {% endif %}
+                            {% if note.categories.size > 1 %}
+                                <strong>Categories:<br /></strong>
+                            {% endif %}
+                        </p>
+                        {% for category in note.categories %}
+                            <p><span class="category-name">{{ category }}</span></p>
+                        {% endfor %}
+                    {%- endif -%}
+                    <p class="post-meta referral">&#8600; <a href="{{ note.url | relative_url }}">Permalink</a></p>
                 </div>
                 <div class="notediv1mobile">
                     <p><span class="post-meta">{{ note.date | date: date_format }}</span></p>
