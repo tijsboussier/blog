@@ -1,6 +1,6 @@
 ---
 layout: notes-page
-permalink: /notes
+permalink: /notes/
 title: "Reading notes"
 navlink: Notes
 ---
