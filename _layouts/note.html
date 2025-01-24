@@ -5,24 +5,26 @@ layout: base
 
 <div class="notecontainer">
     <div class="notediv1">
-        <p class="post-meta">
-            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-                {{ page.date | date: date_format }}
-        </p>
-         {% if page.categories.size > 0 %}
-            <p>
-                {% if page.categories.size == 1 %}
-                    <strong>Category: </strong> 
-                {% endif %}
-                {% if page.categories.size > 1 %}
-                    <strong>Categories: </strong>
-                {% endif %}
+        <div>
+            <p class="post-meta">
+                {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+                    {{ page.date | date: date_format }}
             </p>
-                {% for category in page.categories %}
-                    <p><span class="category-name">{{ category }}</span></p>
-                {% endfor %}
-            </p>
-        {%- endif -%}
+             {% if page.categories.size > 0 %}
+                <p>
+                    {% if page.categories.size == 1 %}
+                        <strong>Category: </strong> 
+                    {% endif %}
+                    {% if page.categories.size > 1 %}
+                        <strong>Categories: </strong>
+                    {% endif %}
+                </p>
+                    {% for category in page.categories %}
+                        <p><span class="category-name">{{ category }}</span></p>
+                    {% endfor %}
+                </p>
+            {%- endif -%}
+        </div>
         <div class="referral">
             <p class="post-meta">&#8598; <a href="{{site.baseurl}}/notes">Back to reading notes</a></p>
         </div>
