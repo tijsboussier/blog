@@ -846,11 +846,11 @@ blockquote {
   color: #4666FF;
 }
 
-/* Stuff for notes page */
+/* Stuff for notes and notes page */
 .notecontainer {
   margin-bottom: 30px;
   display: flex;
-  align-items: baseline;
+  align-items: stretch;
 }
 
 .notlast {
@@ -860,14 +860,24 @@ blockquote {
 
 .notediv1 {
   width: 30%;
+  margin-top: 5px;
 }
 
 .notediv1mobile {
   display: none;
 }
 
+.referral-mobile {
+  display: none;
+}
+
 .notediv2 {
   width: 70%;
+}
+
+h1.heading-note {
+  font-weight: 400;
+  font-size: 1.5em;
 }
 
 @media (max-width: 800px) {
@@ -890,6 +900,12 @@ blockquote {
   .notediv1mobile p span {
     white-space: nowrap;
   }
+  .referral {
+    display: none;
+  }
+  .referral-mobile {
+    display: block;
+  }
   .notediv2 {
     width: 100%;
   }
@@ -899,6 +915,16 @@ blockquote {
   background-color: #ECEFFF;
   border-radius: 5px;
   padding: 5px 10px;
+}
+
+.post-meta > a {
+  color: #828296;
+  text-decoration: underline;
+}
+
+.post-meta > a:visited {
+  color: #828296;
+  text-decoration: underline;
 }
 
 /* Style for pictures */
@@ -915,6 +941,16 @@ figcaption {
   padding: 1em;
   text-align: justify;
   background-color: #e8e8e8;
+}
+
+/* Breadcrumb navigation */
+.breadcrumb-nav {
+  color: #828296;
+}
+
+.breadcrumb-nav > p > a, .breadcrumb-nav > p > a:visited, .breadcrumb-nav > p > a:hover {
+  color: #828296;
+  text-decoration: underline;
 }
 
 /*# sourceMappingURL=style.css.map */
