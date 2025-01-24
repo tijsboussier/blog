@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /then
+permalink: /then/
 title: "What I Was Doing Then"
 ---
 This is an archive of my <a href="https://nownownow.com/about" target="_blank">Now-pages</a>.
