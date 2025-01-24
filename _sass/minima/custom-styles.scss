@@ -127,17 +127,17 @@ blockquote {
   display: none;
 }
 
-.referral {
-  position: absolute;
-  bottom: 10px;
-}
-
 .referral-mobile {
   display: none;
 }
 
 .notediv2 {
   width: 70%;
+}
+
+h1.heading-note {
+  font-weight: 400;
+  font-size: 1.5em;
 }
 
 @media (max-width: 800px) {
