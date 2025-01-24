@@ -1,7 +1,10 @@
 ---
 layout: base
 ---
-<div class="breadcrumb-nav"><p><a href="{{site.baseurl}}/notes/">Reading notes</a> &gt;</p></div>
+<div class="breadcrumb-nav">
+    <p>This page is a note.</p>
+    <p>&#8598; <a href="{{site.baseurl}}/notes">Back to reading notes</a></p>
+</div>
 <div class="notecontainer">
     <div class="notediv1">
         <p class="post-meta">
@@ -22,7 +25,6 @@ layout: base
                 {% endfor %}
             </p>
         {%- endif -%}
-        <p class="post-meta referral"><a href="{{site.baseurl}}/notes" title="Back to reading notes">&#8598;</a></p>
     </div>
 
     <div class="notediv1mobile">
@@ -48,6 +50,5 @@ layout: base
     <div class="notediv2">
         <h1 class="heading-note" itemprop="name headline">{{ page.title }}</h1>
         {{ content }}
-        <p class="post-meta referral-mobile">&#8598; <a href="{{site.baseurl}}/notes">Back to reading notes</a></p>
     </div>
 </div>
