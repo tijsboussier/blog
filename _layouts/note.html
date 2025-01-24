@@ -1,35 +1,36 @@
 ---
 layout: base
 ---
-<article class="post">   
-    <header class="post-header">
+<p class="post-meta">&#x21a9; <a href="{{site.baseurl}}/notes">Back to reading notes</a></p>
+<p class="infobox">You have reached one of my reading notes, short pieces of text in which I highlight some of the best (online) writing I come across.</p>
+
+<div class="notecontainer">
+    <div class="notediv1">
         <p class="post-meta">
             {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-            Reading notes &#62; 
-            <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-                {{ page.date | date: date_format }}
-            </time>
-             &#62;
-            {%- if page.modified_date -%}
-            ~ 
-            {%- assign mdate = page.modified_date | date_to_xmlschema -%}
-            <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
-              {{ mdate | date: date_format }}
-            </time>
-            {%- endif -%}
-            {%- if page.author -%}
-            {% for author in page.author %}
-              <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-                <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
-                {%- if forloop.last == false %}, {% endif -%}
-            {% endfor %}
-            {%- endif -%}</p>
-        <h1 class="post-title p-name" itemprop="name headline">{{ page.title }}</h1>
-      </header>
-    
-    <div class="post-content">
-        <p class="infobox">You have reached one of my reading notes, short pieces of text in which I highlight some of the best (online) writing I come across. <a href="{{site.baseurl}}/notes">See them all.</a></p>
-        {% if page.categories.size > 0 %}
+                {{ note.date | date: date_format }}
+        </p>
+         {% if page.categories.size > 0 %}
+            <p>
+                {% if page.categories.size == 1 %}
+                    <strong>Category: </strong> 
+                {% endif %}
+                {% if page.categories.size > 1 %}
+                    <strong>Categories: </strong>
+                {% endif %}
+            </p>
+                {% for category in page.categories %}
+                    <p><span class="category-name">{{ category }}</span></p>
+                {% endfor %}
+            </p>
+        {%- endif -%}
+    </div>
+    <div class="notediv1mobile">
+        <p class="post-meta">
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+                {{ note.date | date: date_format }}
+        </p>
+         {% if page.categories.size > 0 %}
             <p>
                 {% if page.categories.size == 1 %}
                     <strong>Category: </strong> 
@@ -42,7 +43,10 @@ layout: base
                 {% endfor %}
             </p>
         {%- endif -%}
+    </div>
+
+    <div class="notediv2">
+        <h1 class="post-title p-name" itemprop="name headline">{{ page.title }}</h1>
         {{ content }}
     </div>
-  
-</article>
+</div>
