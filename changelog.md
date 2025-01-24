@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Changelog"
-permalink: /changelog
+permalink: /changelog/
 ---
 ## Recent updates
 
