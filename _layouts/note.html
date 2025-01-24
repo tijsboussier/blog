@@ -3,31 +3,32 @@ layout: base
 ---
 <article class="post">   
     <header class="post-header">
-        <p class="post-meta"><a href="{{site.baseurl}}/notes">Reading notes</a> &#62;</p>
-        <h1 class="post-title p-name" itemprop="name headline">{{ page.title }}</h1>
-        <p class="infobox">You have reached one of my reading notes, short pieces of text in which I highlight some of the best (online) writing I come across.</p>
         <p class="post-meta">
-          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-          <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-            {{ page.date | date: date_format }}
-          </time>
-          {%- if page.modified_date -%}
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            Reading notes &#62; 
+            <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+                {{ page.date | date: date_format }}
+            </time>
+             &#62;
+            {%- if page.modified_date -%}
             ~ 
             {%- assign mdate = page.modified_date | date_to_xmlschema -%}
             <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
               {{ mdate | date: date_format }}
             </time>
-          {%- endif -%}
-          {%- if page.author -%}
-            • {% for author in page.author %}
+            {%- endif -%}
+            {%- if page.author -%}
+            {% for author in page.author %}
               <span itemprop="author" itemscope itemtype="http://schema.org/Person">
                 <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
                 {%- if forloop.last == false %}, {% endif -%}
             {% endfor %}
-          {%- endif -%}</p>
+            {%- endif -%}</p>
+        <h1 class="post-title p-name" itemprop="name headline">{{ page.title }}</h1>
       </header>
     
     <div class="post-content">
+        <p class="infobox">You have reached one of my reading notes, short pieces of text in which I highlight some of the best (online) writing I come across. <a href="{{site.baseurl}}/notes">See them all.</a></p>
         {% if page.categories.size > 0 %}
             <p>
                 {% if page.categories.size == 1 %}
