@@ -1,7 +1,7 @@
 ---
 date: 2025-01-22
 layout: page
-permalink: /now
+permalink: /now/
 title: "What I'm Doing Now"
 navlink: Now
 ---
