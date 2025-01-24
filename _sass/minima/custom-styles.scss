@@ -211,3 +211,18 @@ figcaption {
   text-align: justify;
   background-color: #e8e8e8;
 }
+
+/* Breadcrumb navigation */
+
+.breadcrumb-nav {
+  color: #828296;
+}
+
+.breadcrumb-nav > a, .breadcrumb-nav > a:visited {
+  color: #828296;
+}
+
+ .breadcrumb-nav > a:hover {
+  color: #828296;
+  text-decoration: underline;
+}
