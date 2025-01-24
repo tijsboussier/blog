@@ -120,6 +120,13 @@ blockquote {
 
 .notediv1 {
   width: 30%;
+  flex: 1;
+  position: relative;
+}
+
+.referral {
+  position: absolute;
+  bottom: 0;
 }
 
 .notediv1mobile {
@@ -153,6 +160,10 @@ blockquote {
 
   .notediv1mobile p span {
     white-space: nowrap;
+  }
+
+  .referral {
+    display: none;
   }
 
   .notediv2 {
