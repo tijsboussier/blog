@@ -123,12 +123,16 @@ blockquote {
   position: relative;
 }
 
+.notediv1mobile {
+  display: none;
+}
+
 .referral {
   position: absolute;
   bottom: 10px;
 }
 
-.notediv1mobile {
+.referral-mobile {
   display: none;
 }
 
@@ -163,6 +167,10 @@ blockquote {
 
   .referral {
     display: none;
+  }
+
+  .referral-mobile {
+    display: block;
   }
 
   .notediv2 {
