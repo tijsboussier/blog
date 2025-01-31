@@ -1,5 +1,5 @@
 ---
-date: 2025-01-22
+date: 2025-01-31
 layout: page
 permalink: /now/
 title: "What I'm Doing Now"
@@ -23,12 +23,13 @@ This is my <a href="https://nownownow.com/about" target="_blank">Now-page</a>, i
 ## Books
 
 ### Currently reading
-*I Is Another: Septology III-V* by Jon Fosse, translated by Damion Searls
+*A New Name: Septology VI-VII* by Jon Fosse, translated by Damion Searls
 
 ### Finished
 1. *The Red Parts* by Maggie Nelson
 2. *The Other Name: Septology I-II* by Jon Fosse, translated by Damion Searls
 3. _The Man in the High Castle_ by Philip K. Dick
+4. *I Is Another: Septology III-V* by Jon Fosse, translated by Damion Searls
 
 ## Cinema visits
 1. *Nosferatu* (2024) - Cinéma Aventure
