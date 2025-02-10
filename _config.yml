@@ -11,9 +11,15 @@ header_pages:
   - about.md
 minima:
   social_links:
-    - { platform: bluesky, user_url: "https://bsky.app/profile/tijsboussier.eu" }
-    - { platform: instagram, user_url: "https://www.instagram.com/mrhappyboots" }
-    - { platform: storygraph, user_url: "https://app.thestorygraph.com/profile/tijsboussier" }
+    - title: Bluesky
+      icon: bluesky
+      url: https://bsky.app/profile/tijsboussier.eu
+    - title: Instagram
+      icon: Instagram
+      url: "https://www.instagram.com/mrhappyboots
+    - title: The StoryGraph
+      icon: storygraph
+      url: https://app.thestorygraph.com/profile/tijsboussier
   date_format: "%e %B %Y"
 plugins:
   - jekyll-feed
