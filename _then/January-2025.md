@@ -1,5 +1,5 @@
 ---
-date: 2024-12-29
+date: 2025-01-31
 layout: thenpage
 title: "What I Was Doing Then"
 name: "January 2025"
