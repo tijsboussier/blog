@@ -14,13 +14,13 @@ minima:
   social_links:
     - title: Bluesky
       icon: bluesky
-      url: https://bsky.app/profile/tijsboussier.eu
+      url: "https://bsky.app/profile/tijsboussier.eu"
     - title: Instagram
       icon: Instagram
-      url: "https://www.instagram.com/mrhappyboots
+      url: "https://www.instagram.com/mrhappyboots"
     - title: The StoryGraph
       icon: storygraph
-      url: https://app.thestorygraph.com/profile/tijsboussier
+      url: "https://app.thestorygraph.com/profile/tijsboussier"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
