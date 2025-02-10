@@ -10,6 +10,7 @@ header_pages:
   - now.md
   - about.md
 minima:
+  date_format: "%e %B %Y"
   social_links:
     - title: Bluesky
       icon: bluesky
@@ -20,7 +21,6 @@ minima:
     - title: The StoryGraph
       icon: storygraph
       url: https://app.thestorygraph.com/profile/tijsboussier
-  date_format: "%e %B %Y"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
