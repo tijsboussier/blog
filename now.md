@@ -1,5 +1,5 @@
 ---
-date: 2025-02-10
+date: 2025-02-23
 layout: page
 permalink: /now/
 title: "What I'm Doing Now"
@@ -15,12 +15,15 @@ This is my <a href="https://nownownow.com/about" target="_blank">Now-page</a>, i
 ## Books
 
 ### Currently reading
-_The Sorcerer of the Wildeeps_ by Kai Ashante Wilson
+*Absolution* by Jeff VanderMeer
 
 ### Finished
 1. *A New Name: Septology VI-VII* by Jon Fosse, translated by Damion Searls
+2. _The Sorcerer of the Wildeeps_ by Kai Ashante Wilson
+3. _A Taste of Honey_ by Kai Ashante Wilson  
 
 ## Cinema visits
 1. _Des Teufels Bad_ (2024) - Cinéma Palace
 2. _The Brutalist_ (2024) - Cinéma Aventure
+3. _Maria_ (2024) - Cinéma Galeries
 
