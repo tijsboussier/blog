@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-date: 2024-11-27
+date: 2025-12-19
 permalink: /about/
 navlink: About
 ---
@@ -9,22 +9,20 @@ navlink: About
 <img src="{{site.baseurl}}/docs/assets/images/about_small.jpg" style="height: 250px; vertical-align: top; margin: 0.3em 0 1em 1em; float: right;" />
 
 I'm Tijs. 
-- He/him. 40. Born and raised in Belgium.
-- Currently living in Brussels with my boyfriend and our cat.  
-- During office hours I'm an EdTech policy advisor at KU Leuven's Faculty of Arts. In my downtime I read, watch TV and/or movies, or play ~~video games~~ CK3. I also spend a fair bit of time cooking - I'm halfway decent at it, too - and studying languages. I'm currently taking night classes in Swedish.  
-- I'm a homebody. When I do leave the house it's usually to go to the movies, though I also enjoy bars and restaurants, hikes, the odd board game or two and trips aproad.  
+- He/him. 40. Belgian. Brussels-based.  
+- During office hours I'm an EdTech policy advisor at KU Leuven's Faculty of Arts. 
+- In my downtime I read, watch TV and/or movies or play video games. I also enjoy messing around with tech, cooking and studying languages.
+- Homebody. When I do leave the house it's usually to go to my Swedish night classes or to the movies, though I also enjoy bars/restaurants, hikes, board games and trips aproad.  
 - Truly, I'm nothing special.
 
 ## About this website
-I used to blog. Blogger, Wordpress, LiveJournal, Tumblr ... You name it, I was on it. 
+I used to blog. Blogger, Wordpress, LiveJournal, Tumblr ... You name it, I was on it. Then I stopped.
 
-Then I stopped. It's been half a decade since I last published anything more substantial than an Instagram story. In recent times I've been missing it though and so, after a lot of soul-searching, a bit of research as well as a couple of prematurely aborted attempts, I'm now ready to put my stuff out there again.
+In recent times I've been missing it though and so, after a lot of soul-searching, a bit of research as well as a couple of prematurely aborted attempts, I'm now ready to put my stuff out there again.
 
-I'm doing it a little bit differently this time around, with a set-up that puts everything firmly under my control. I don't want to be at the mercy of whichever corporation owns the platform I publish on anymore and I want to challenge myself to really make this space my own. I enjoy to dabble in code and I want to do more of it.
+I'm doing it a little bit differently this time around. I don't want to be at the mercy of whichever corporation owns the platform I publish on anymore, so I've set this website up in a way that puts everything firmly under my control. This space is mine, a personal playground to mess around in with writing, web development and web design. For right now, though, it really is just a dime-in-a-dozen blog.
 
-This website is my personal playground, to mess around with writing and web design. For right now, though, it really is just a dime-in-a-dozen blog.
-
-My interests are manifold. There are a few domains that interest me in particular - books (predominantly speculative fiction), TV shows and films, languages, and technology - and I expect I'll mainly be talking about those on here. That said, this website does not have a set range of topics, and nothing is off bounds.
+My interests are manifold. There are a few domains that interest me in particular - books (predominantly fiction), TV shows and films, languages, and technology - and I expect I'll mainly be talking about those on here. That said, this website does not have a set range of topics, and nothing is off bounds.
 
 
 ## Credit
