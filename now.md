@@ -1,5 +1,5 @@
 ---
-date: 2025-02-23
+date: 2026-06-02
 layout: page
 permalink: /now/
 title: "What I'm Doing Now"
@@ -7,23 +7,15 @@ navlink: Now
 ---
 This is my <a href="https://nownownow.com/about" target="_blank">Now-page</a>, inspired by <a href="https://sive.rs/" target="_blank">Derek Sivers</a>. Last updated on {{ page.date | date: '%e %B %Y' }}. Archive <a href="{{site.baseurl}}/then">here</a>.
 
-## Projects
+## This Place
+- When I launched this website I fully intended to publish on it regularly, but after the first three entries I sort of ... gave up. That's not where I want to leave things though. Updates will most likely continue to be intermittent for a good while yet, if they're ever any different, but I'm keeping the website up. That's a deliberate choice now. I always wanted it to be a space of my own, to publish some stuff on when and however I felt like it. It can still be that, even if I don't update it as regularly as I originally planned. It's sort of nice to know it's always here in case I do want to jump back in, however briefly.
 
-- **Language study**. I'm currently taking night classes in Polish (conversation classes) and Swedish (language course). I'm also using Anki and Duolingo for extra practice for both, as well as for French and German revision.
-- **This blog**. After years of talking about it, I have finally gone and done it. I've been loving writing and posting, as well as tinkering with how this place looks. I'm keeping track of changes that have to do with layout, style and structure [here]({{site.baseurl}}/changelog).
+## Work
+- I spend a lot of my time these days thinking and talking about how higher education is being impacted by GenAI, how to adjust it to that reality, the upsides and downsides of the use of the technology in an academic education setting and the like and that is fine, most of the time. Or was? Recently I increasingly find myself wishing I could disengage from that whole debate more often than I can, so much so that there's times where even someone mentioning AI in passing sends a jolt of anxiety through my chest.  (To be fair the list of things that makes me want to run for the hills has gotten increasingly long over the last few months; AI is just one of those items.)  
+- I recently finished a project with the student admin department that required me to get proficient in PowerAutomate in order to link different parts of the M365 stack, make them communicate with each other and ultimately send the data the end users of the different flows we created need in the right format. It was fun. (The most fun part about it? No AI required. I don't care what the hype says, right now AI agents just can't be trusted to handle sensitive data reliably or securely.)
 
-## Books
-
-### Currently reading
-*Absolution* by Jeff VanderMeer
-
-### Finished
-1. *A New Name: Septology VI-VII* by Jon Fosse, translated by Damion Searls
-2. _The Sorcerer of the Wildeeps_ by Kai Ashante Wilson
-3. _A Taste of Honey_ by Kai Ashante Wilson  
-
-## Cinema visits
-1. _Des Teufels Bad_ (2024) - Cinéma Palace
-2. _The Brutalist_ (2024) - Cinéma Aventure
-3. _Maria_ (2024) - Cinéma Galeries
-
+## Home
+- I hinted at it above, but ummm yeah, without going into much detail, my mental health has been in decline I guess for a while now and more recently took a real nosedive, making it impossible for me to ignore or deny any longer. Having no idea how to pick up the pieces I sought help and am back in therapy now. Early days.
+- In my second year of Swedish night classes now and I have my exam for it soon, which is a good thing. I need a bit of time off - referring back to the previous bullet: so much feels quite overwhelming right now and I want to be able to just, hit pause on certain things - though I'm sure to enroll for the next course, which starts in October. In the meantime I'll try and maintain my current proficiency level with the help of Anki, podcasts in simplified Swedish, and perhaps by reading more in Swedish, too. I'm reading Maria Gripe's *Tordyveln flyger i skymningen* at the moment, first time I'm reading a book in Swedish, and though it's not exactly easy, YA novels appear to be doable at my current level.    
+- Talking with a friend a while ago we realised we both wanted to try and do a multiple day hike at some point, which neither of us have ever done. So now we're making plans to do part of the [Mullerthal trail](https://www.mullerthal-trail.lu/en) in Luxembourg some time in the fall and officially started preparing for it last Sunday doing the [Bergbroekwandeling](https://www.wandelknooppunt.be/nl-be/wandelen/routes/r175/bergbroekwandeling) in Holsbeek. Plan now is to do one hike each month and make them a bit more challenging every time.
+- I have been getting back into music, even if my fluctuating mental state over the last few months has made even that process challenging at times. I've switched streaming services (Qobuz instead of Spotify), have been more deliberate in choosing what I listen to and been trying out more artists or albums I didn't already know, and went to and am going to more concerts than I have for a good few years now. At some point this might culminate in me writing about it (I've been in a half a mind to for ohhh about two months now). It also might not.
