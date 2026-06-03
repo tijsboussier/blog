@@ -4,7 +4,7 @@
   max-width: 700px;
 }
 
-/* Sticky header + remove black bar on top */
+/* Sticky header, remove black bar on top, page links style */
 
 .site-header {
   position: sticky;
@@ -15,6 +15,10 @@
 
 .site-header {
   border-top: 0;
+}
+
+a.page-link:hover {
+  text-decoration: underline 3px #4666FF;
 }
 
 /* Changes to the footer */
@@ -89,9 +93,8 @@ li {
 
 .infobox {
   border-bottom: 1px solid #e8e8e8;
-  padding-bottom: 30px;
-  margin-top: 30px;
   margin-bottom: 30px;
+  padding-bottom: 30px;
   font-weight: 600;
 }
 
