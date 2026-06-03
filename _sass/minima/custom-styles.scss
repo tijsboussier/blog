@@ -19,7 +19,13 @@
 
 .site-nav .page-link {
   background-color: inherit;
-  margin: 5px 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 10px;
+}
+
+.site-nav .page-link:not(:last-child) {
+  margin-right: 10px;
 }
 
 .site-nav .page-link:hover {
