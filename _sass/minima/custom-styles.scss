@@ -18,7 +18,13 @@
 }
 
 a.page-link:hover {
-  text-decoration: underline 3px #4666FF;
+  padding: 5px 10px;
+}
+
+a.page-link:hover {
+  background-color: #ECEFFF;
+  border-radius: 5px;
+  padding: 5px 10px;
 }
 
 /* Changes to the footer */
@@ -33,7 +39,7 @@ a.page-link:hover {
 
 /* Paragraphs, headings, bullets and blockquotes */
 
-p {
+p, li {
   text-align: justify;
 }
 
