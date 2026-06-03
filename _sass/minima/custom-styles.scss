@@ -21,7 +21,7 @@
   text-align: center;
 }
 
-/* Paragraphs, headings and blockquotes */
+/* Paragraphs, headings, bullets and blockquotes */
 
 p {
   text-align: justify;
@@ -57,6 +57,10 @@ h2, h3, h4, h5, h6 {
 
 blockquote {
   font-size: 1rem;
+}
+
+li {
+  margin-bottom: 0.5em;
 }
 
 /* Add heading to footnotes */
