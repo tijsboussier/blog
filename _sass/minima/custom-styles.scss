@@ -251,6 +251,16 @@ figcaption {
   background-color: #e8e8e8;
 }
 
+.float {
+  float: right;
+  max-width: 320px;
+  margin: 5px;
+}
+
+@media (min-width: 600px) {
+  .float {float: none; text-align: center;}
+}
+
 /* Breadcrumb navigation */
 
 .breadcrumb-nav {
