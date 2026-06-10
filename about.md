@@ -5,7 +5,7 @@ date: 2026-06-10
 permalink: /about/
 navlink: About
 ---
-<img src="{{site.baseurl}}/docs/assets/images/about_pic.png" style="float:right; max-width: 320px; margin: 5px;" />
+<img class="float" src="{{site.baseurl}}/docs/assets/images/about_pic.png" />
 
 ## About Me
 
@@ -16,8 +16,6 @@ I'm Tijs. 40, he/him.
 I have many interests and sometimes I even leave the house and do things. Neither of these lists is exhaustive.  
 **Interests**. Books, music, TV and movies, video games (occasionally, and then limited to a very little few), languages and linguistics, natural science, social justice, cooking and tech.  
 **Activities**. Swedish classes, cinema, board games (occasionally), trips abroad, hikes (very intermittently so far, but planning to go on them more regularly going forward).
-
-
 
 ## About This Website
 I used to blog. Blogger, Wordpress, LiveJournal, Tumblr ... You name it, I was on it. Then I stopped.
