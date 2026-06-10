@@ -5,7 +5,7 @@ date: 2026-06-10
 permalink: /about/
 navlink: About
 ---
-<img src="{{site.baseurl}}/docs/assets/images/about_pic.png" style="float:right; width: 320px; margin: 5px;" />
+<img src="{{site.baseurl}}/docs/assets/images/about_pic.png" style="float:right; max-width: 320px; margin: 5px;" />
 
 ## About Me
 
