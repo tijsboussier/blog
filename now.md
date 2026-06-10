@@ -5,7 +5,9 @@ permalink: /now/
 title: "What I'm Doing Now"
 navlink: Now
 ---
+<p class="infobox">
 This is my <a href="https://nownownow.com/about" target="_blank">Now-page</a>, inspired by <a href="https://sive.rs/" target="_blank">Derek Sivers</a>. Last updated on {{ page.date | date: '%e %B %Y' }}. Archive <a href="{{site.baseurl}}/then">here</a>.
+</p>
 
 ## This Place
 - When I launched this website I fully intended to publish on it regularly, but after the first three entries I sort of ... gave up. That's where I left things. Until now, perhaps? To be fair updates will most likely continue to be intermittent for a good while yet, if they're ever any different, but I'm keeping the website up. I always wanted it to be a space of my own, to publish some stuff on when and however I felt like it. It can still be that, even if I don't update it as regularly as I originally planned. It's nice to know it's always here in case I do want to jump back in, however briefly. 
