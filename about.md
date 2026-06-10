@@ -5,6 +5,9 @@ date: 2026-06-10
 permalink: /about/
 navlink: About
 ---
+
+<img src="{{site.baseurl}}/docs/assets/images/about_pic.png" style="float:right; width: 360px;" />
+
 ## About Me
 
 I'm Tijs. 40, he/him.  
