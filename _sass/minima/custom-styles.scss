@@ -257,7 +257,7 @@ figcaption {
   margin: 5px;
 }
 
-@media (min-width: 600px) {
+@media (max-width: 600px) {
   .float {float: none; text-align: center;}
 }
 
