@@ -4,12 +4,17 @@
   max-width: 700px;
 }
 
+/* Background color */
+
+body, .page-content, .site-header, .site-footer {
+  background-color: #ededed;
+}
+
 /* Sticky header, remove black bar on top, page links style */
 
 .site-header {
   position: sticky;
   top: 0;
-  background-color: #FDFDFD;
   backdrop-filter: opacity(100%);
 }
 
