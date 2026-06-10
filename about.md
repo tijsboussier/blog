@@ -6,7 +6,7 @@ permalink: /about/
 navlink: About
 ---
 
-<img src="{{site.baseurl}}/docs/assets/images/about_pic.png" style="float:right; width: 360px;" />
+<img src="{{site.baseurl}}/docs/assets/images/about_pic.png" style="float:right; width: 320px;" />
 
 ## About Me
 
