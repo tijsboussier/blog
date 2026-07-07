@@ -28,19 +28,8 @@
   font-family: "M PLUS Rounded 1c", sans-serif;
 }
 
-.site-nav .page-link:not(:last-child) {
-  margin-right: 5px;
-}
-
-.site-nav .page-link:last-child {
-  margin-right: 5px;
-}
-
 .site-nav .page-link:hover {
-  background-color: #FDF4EE;
-  color: #F29559;
-  padding: 5px 10px;
-  border-radius: 5px;
+  color: #FF785A;
   text-decoration: none;
 }
 
@@ -142,20 +131,20 @@ li {
 }
 
 .tag-name {
-  color: #F29559;
-  background-color: #FDF4EE;
+  color: #FF785A;
+  background-color: #FFF1EE;
   border-radius: 5px;
   padding: 5px 10px;
 }
 
 .tag-name:hover {
-  color: #F29559;
-  background-color: #FCE9DD;
+  color: #FF785A;
+  background-color: #FFE4DE;
   text-decoration: none;
 }
 
 .tag-name:visited {
-  color: #F29559;
+  color: #FF785A;
 }
 
 /* Stuff for notes and notes page */
