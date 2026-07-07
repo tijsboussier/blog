@@ -37,9 +37,10 @@
 }
 
 .site-nav .page-link:hover {
-  background-color: #E9F1F5;
-  color: #247BA0;
+  background-color: #FDF4EE;
+  color: #F29559;
   padding: 5px 10px;
+  border-radius: 5px;
   text-decoration: none;
 }
 
@@ -141,20 +142,20 @@ li {
 }
 
 .tag-name {
-  color: #247BA0;
-  background-color: #E9F1F5;
+  color: #F29559;
+  background-color: #FDF4EE;
   border-radius: 5px;
   padding: 5px 10px;
 }
 
 .tag-name:hover {
-  color: #247BA0;
-  background-color: #D3E4EC;
+  color: #F29559;
+  background-color: #FCE9DD;
   text-decoration: none;
 }
 
 .tag-name:visited {
-  color: #247BA0;
+  color: #F29559;
 }
 
 /* Stuff for notes and notes page */
