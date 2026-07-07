@@ -775,7 +775,7 @@ table td {
 }
 
 .site-title {
-  font-family: "Ubuntu Sans", sans-serif;
+  font-family: "Stack Sans Headline", sans-serif;
 }
 
 .site-nav .page-link {
@@ -784,21 +784,16 @@ table td {
   margin-bottom: 5px;
   margin-left: 5px;
   padding: 5px 10px;
-  font-family: "Ubuntu Sans", sans-serif;
+  font-family: "Merriweather", serif;
+  font-size: 16px;
 }
 
 .site-nav .page-link:not(:last-child) {
   margin-right: 5px;
 }
 
-.site-nav .page-link:last-child {
-  margin-right: 5px;
-}
-
 .site-nav .page-link:hover {
-  background-color: #E9F1F5;
   color: #247BA0;
-  padding: 5px 10px;
   text-decoration: none;
 }
 
@@ -813,7 +808,7 @@ table td {
 
 /* Paragraphs, headings, bullets and blockquotes */
 body {
-  font-size: 18px;
+  font-size: 17px;
   font-family: "Merriweather", serif;
   font-optical-sizing: auto;
   font-style: normal;
@@ -828,11 +823,10 @@ p strong, li strong {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Ubuntu Sans", sans-serif;
+  font-family: "Stack Sans Headline", sans-serif;
   font-style: normal;
   word-wrap: break-word;
   font-optical-sizing: auto;
-  letter-spacing: -1px;
   text-align: justify;
 }
 
@@ -854,7 +848,11 @@ h2, h3, h4, h5, h6 {
   font-size: 1.2em;
   font-weight: 400;
   margin-bottom: -15px;
-  letter-spacing: -1px;
+}
+
+.post-meta {
+  font-style: italic;
+  font-size: 16px;
 }
 
 blockquote {
